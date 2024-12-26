@@ -1,0 +1,26 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/baubles.pw.toml"
+hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
+metafile = true
+
+[[files]]
+file = "mods/codechickencore-unofficial.pw.toml"
+hash = "0a06fbd955806370085b0945aebd87aa046240ed4616c8537c3c959462fb079c"
+metafile = true
+
+[[files]]
+file = "mods/notenoughitems-gtnh.pw.toml"
+hash = "33e8933ef732e899b4990b591edd83d9dd500dd79006b2c253227f1306f94e87"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft.pw.toml"
+hash = "f0b23db33db035ffb866e3f09a39dc7019a0de90fe32069bbc48df2ad9dc1a68"
+metafile = true
+
+[[files]]
+file = "mods/unimixins.pw.toml"
+hash = "141c1b00de4d99451504165947652205014642e1d11a1c249706feb0f0d356a6"
+metafile = true
