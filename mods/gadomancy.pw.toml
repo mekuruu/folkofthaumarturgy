@@ -1,0 +1,15 @@
+name = "Gadomancy"
+filename = "gadomancy-1.3.7-pre.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Gadomancy/releases/download/1.3.7-pre/gadomancy-1.3.7-pre.jar"
+hash-format = "sha256"
+hash = "cde857d4d67a2324f11afa09e27644c8ed568db5ecb3a919975ce3e0f70507fb"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/Gadomancy"
+tag = "1.3.7-pre"

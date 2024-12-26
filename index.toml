@@ -11,6 +11,11 @@ hash = "0a06fbd955806370085b0945aebd87aa046240ed4616c8537c3c959462fb079c"
 metafile = true
 
 [[files]]
+file = "mods/dragonapi.pw.toml"
+hash = "0692772b07a0a4a778336bc47fdd8859136b275e2e24ee6bbf99ec8917ca1ca6"
+metafile = true
+
+[[files]]
 file = "mods/expandedredstone.pw.toml"
 hash = "59326406e5e8e68735ac7999048e07911c0db6d47829d4c45c21c3a3fbe8fb7b"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
 hash = "33e8933ef732e899b4990b591edd83d9dd500dd79006b2c253227f1306f94e87"
+metafile = true
+
+[[files]]
+file = "mods/salis-arcana.pw.toml"
+hash = "a73b01186a8b1b73d51e52273b0526a1565e969fa84f8342683f17bf514608cc"
 metafile = true
 
 [[files]]

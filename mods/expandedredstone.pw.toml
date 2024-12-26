@@ -1,0 +1,13 @@
+name = "ExpandedRedstone"
+filename = "ExpandedRedstone 1.7.10 V33a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8197bc252b7ab4a64bc1dc393ed60e6460f81443"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4721209
+project-id = 235602
