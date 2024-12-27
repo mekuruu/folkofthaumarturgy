@@ -11,6 +11,11 @@ hash = "0a06fbd955806370085b0945aebd87aa046240ed4616c8537c3c959462fb079c"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "bf52436734de014ef98d387f42c00622fdbe5e6e526e41787909abda33383c70"
+metafile = true
+
+[[files]]
 file = "mods/dragonapi.pw.toml"
 hash = "0692772b07a0a4a778336bc47fdd8859136b275e2e24ee6bbf99ec8917ca1ca6"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/gadomancy.pw.toml"
 hash = "123d4347fef04b307b243ac27954c0a386ba803b34e8399406ee55a109654be1"
+metafile = true
+
+[[files]]
+file = "mods/modtweaker.pw.toml"
+hash = "2efe15f652487360e8673eb80d8e565218c1bddbea5f4a22ae41a2fb8da7c675"
 metafile = true
 
 [[files]]
