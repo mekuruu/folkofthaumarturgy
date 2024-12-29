@@ -21,6 +21,11 @@ hash = "0a06fbd955806370085b0945aebd87aa046240ed4616c8537c3c959462fb079c"
 metafile = true
 
 [[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "92f97f8e154f1b85fd41823813e74ba8806babbce79679445355b75547f610e2"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "bf52436734de014ef98d387f42c00622fdbe5e6e526e41787909abda33383c70"
 metafile = true
