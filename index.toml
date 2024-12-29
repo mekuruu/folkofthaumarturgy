@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "e67f3f99700796001c0c22a30799977cadae8a2562027df5f3d45697f9f8e661"
+hash = "cc9f8b5b31c3578ac6a6ddc707339b6372c90903e15e30b5ff13ab6b138f96b0"
 
 [[files]]
 file = "mods/archaicfix.pw.toml"
@@ -77,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/salis-arcana.pw.toml"
 hash = "a73b01186a8b1b73d51e52273b0526a1565e969fa84f8342683f17bf514608cc"
+metafile = true
+
+[[files]]
+file = "mods/tc4tweaks.pw.toml"
+hash = "8aa5715b8f3e1130e7e9b4b14a933260430908b1cb48ccb5966fcf2f2f2c9437"
 metafile = true
 
 [[files]]
