@@ -1,0 +1,15 @@
+name = "TCNEIAdditions"
+filename = "tcneiadditions-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.4.2/tcneiadditions-1.4.2.jar"
+hash-format = "sha256"
+hash = "e01cbf3d1324a01701e7273e3ec5e49f0bf2a37310e3d92ddda0e3521950cd91"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/TCNEIAdditions"
+tag = "1.4.2"
