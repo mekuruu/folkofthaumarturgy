@@ -10,8 +10,9 @@ Folk of Thaumaturgy is a pack for Minecraft 1.7.10 centered around Thaumcraft, w
 - BuildCraft ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/buildcraft/) | [GitHub](https://github.com/BuildCraft/BuildCraft))
     - BuildCraft Compat ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/buildcraft-compat))
 - Thaumcraft ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/thaumcraft))
-    - Gadomancy (GTNH fork | [GitHub](https://github.com/GTNewHorizons/Gadomancy/))
     - Automagy ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/automagy)]
+    - Gadomancy (GTNH fork | [GitHub](https://github.com/GTNewHorizons/Gadomancy/))
+    - Thaumic Tinkerer (GTNH fork | [GitHub](https://github.com/GTNewHorizons/ThaumicTinkerer/releases/tag/2.11.0))
 
 ### Redstone Mods
 - ExpandedRedstone ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/expandedredstone) | [GitHub](https://github.com/ReikaKalseki/ExpandedRedstone))

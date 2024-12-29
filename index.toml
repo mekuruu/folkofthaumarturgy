@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e67f3f99700796001c0c22a30799977cadae8a2562027df5f3d45697f9f8e661"
+
+[[files]]
 file = "mods/archaicfix.pw.toml"
 hash = "92e0ab3a1611367df378c257cb1e8867b0bf571f64f7e1ddc2e249d608753f39"
 metafile = true
@@ -88,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/thaumcraft.pw.toml"
 hash = "f0b23db33db035ffb866e3f09a39dc7019a0de90fe32069bbc48df2ad9dc1a68"
+metafile = true
+
+[[files]]
+file = "mods/thaumictinkerer.pw.toml"
+hash = "31152a1c3a615c9971f9fdb4e99db667b52b429839be63f830690e7ceaa9ea5c"
 metafile = true
 
 [[files]]
