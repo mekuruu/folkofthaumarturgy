@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "cc9f8b5b31c3578ac6a6ddc707339b6372c90903e15e30b5ff13ab6b138f96b0"
+hash = "4a7b5dcb75467c85d01c376991991a8cd8d69c6be7bb7165d739706a0cb4eacc"
 
 [[files]]
 file = "mods/archaicfix.pw.toml"
@@ -27,6 +27,16 @@ metafile = true
 [[files]]
 file = "mods/buildcraft.pw.toml"
 hash = "9177b1779ec85c0844251d374cd48f04b6babd11f770f2d1848dd0634d5a29bc"
+metafile = true
+
+[[files]]
+file = "mods/carpenters-blocks.pw.toml"
+hash = "a06f7789e0fd9aef2378f6000af1832e95407a0c854b30ba67d74d53a8146b8e"
+metafile = true
+
+[[files]]
+file = "mods/chisel.pw.toml"
+hash = "e05e261e4b7eae159f1deff4b9b436bcdfab8ee9f875d6dcf7f44764c136ea09"
 metafile = true
 
 [[files]]

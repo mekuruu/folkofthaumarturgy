@@ -31,6 +31,10 @@ Folk of Thaumaturgy is a pack for Minecraft 1.7.10 centered around Thaumcraft, w
 ### Performance
 - ArchaicFix ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/archaicfix) | [GitHub](https://github.com/embeddedt/ArchaicFix))
 
+### Building
+- Chisel (([Curseforge](https://www.legacy.curseforge.com/minecraft/mc-mods/chisel) | [GitHub](https://github.com/Chisel-Team/Chisel)))
+- Carpenter's Blocks ([Curseforge](https://www.legacy.curseforge.com/minecraft/mc-mods/carpenters-blocks) | [GitHub](https://github.com/Mineshopper/carpentersblocks))
+
 ### Dependencies
 - Baubles ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/baubles))
 - CodeChickenCore Unofficial 1.7.10 ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/codechickencore-unofficial) | [GitHub](https://github.com/GTNewHorizons/CodeChickenCore))
