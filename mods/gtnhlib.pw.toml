@@ -1,0 +1,13 @@
+name = "GTNHLib"
+filename = "gtnhlib-0.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08de3d3fc9d4cd67e934fb356f11e53fdb0a8185"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6007586
+project-id = 688894

@@ -27,4 +27,5 @@ Folk of Thaumaturgy is a pack for Minecraft 1.7.10 centered around Thaumcraft, w
 - CraftTweaker ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/search?category=&search=crafttweaker))
     - ModTweaker ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/modtweaker))
 - DragonAPI ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/dragonapi) | [GitHub](https://github.com/ReikaKalseki/DragonAPI))
+- GTNHLib ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/gtnhlib) | [GitHub](https://github.com/GTNewHorizons/GTNHLib))
 - UniMixins ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/unimixins) | [GitHub](https://github.com/LegacyModdingMC/UniMixins))
