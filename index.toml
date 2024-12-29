@@ -16,6 +16,16 @@ hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
 metafile = true
 
 [[files]]
+file = "mods/buildcraft-compat.pw.toml"
+hash = "f1f8e280ed55bbc1133c73e7184727247d5e4c12a6aadabd4dc0f9692df64026"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.pw.toml"
+hash = "9177b1779ec85c0844251d374cd48f04b6babd11f770f2d1848dd0634d5a29bc"
+metafile = true
+
+[[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
 hash = "0a06fbd955806370085b0945aebd87aa046240ed4616c8537c3c959462fb079c"
 metafile = true
