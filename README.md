@@ -21,6 +21,8 @@ Folk of Thaumaturgy is a pack for Minecraft 1.7.10 centered around Thaumcraft, w
 - Crafting Tweaks ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/crafting-tweaks) | [GitHub](https://github.com/TwelveIterationMods/CraftingTweaks))
 - NotEnoughItems Unofficial 1.7.10 ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh) | [GitHub](https://github.com/GTNewHorizons/NotEnoughItems))
 - Salis Arcana ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/salis-arcana) | [GitHub](https://github.com/rndmorris/Salis-Arcana))
+- Waila ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/waila/))
+    - Wawla ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/wawla) | [GitHub](https://github.com/Darkhax-Minecraft/WAWLA))
 
 ### Performance
 - ArchaicFix ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/archaicfix) | [GitHub](https://github.com/embeddedt/ArchaicFix))
