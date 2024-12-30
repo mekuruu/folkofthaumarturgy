@@ -7,6 +7,7 @@ Folk of Thaumaturgy is a pack for Minecraft 1.7.10 centered around Thaumcraft, w
 ## Mod List
 
 ### Content Mods
+- Botania ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/botania) | [GitHub](https://github.com/VazkiiMods/Botania)) 
 - BuildCraft ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/buildcraft/) | [GitHub](https://github.com/BuildCraft/BuildCraft))
     - BuildCraft Compat ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/buildcraft-compat))
 - Thaumcraft ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/thaumcraft))

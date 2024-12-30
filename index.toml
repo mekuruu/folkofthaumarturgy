@@ -33,6 +33,11 @@ hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "671de8e68e89cefde9a64d2be0bccd68623236101579cc5d1be0bde9b2b7755f"
+metafile = true
+
+[[files]]
 file = "mods/buildcraft-compat.pw.toml"
 hash = "f1f8e280ed55bbc1133c73e7184727247d5e4c12a6aadabd4dc0f9692df64026"
 metafile = true
