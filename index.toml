@@ -146,3 +146,7 @@ metafile = true
 file = "mods/wawla.pw.toml"
 hash = "62ea2b80fdff17bc5c4f150c771f946067ae5bf0399ffe10b4eed5a0cde29b91"
 metafile = true
+
+[[files]]
+file = "scripts/ham.zs"
+hash = "c107cc64330fde049c3370525632ce83a33cb4ecc0cc4b53edd5275403526d0b"
