@@ -75,6 +75,11 @@ hash = "210b537973d3ec469f624c2ceba7b01b88bf38b17225123a8f00910eefe67ecc"
 metafile = true
 
 [[files]]
+file = "mods/hammerz.pw.toml"
+hash = "6c340be9f025209e13e6b07255ec38dc6fc4ff8b7e8e203e8019ff09e472a186"
+metafile = true
+
+[[files]]
 file = "mods/modtweaker.pw.toml"
 hash = "2efe15f652487360e8673eb80d8e565218c1bddbea5f4a22ae41a2fb8da7c675"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Hammerz"
+filename = "Hammerz-1.7.10-0.1.7.37.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a2caf637fb3ddbaa1524c630d3ee2e9cb9c33cad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2280216
+project-id = 238928
