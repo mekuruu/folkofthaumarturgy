@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "52d5ba9d8ac3f60d85fc1a3310c0cf72ca5a01b10da8b983eade97fd63200866"
+hash = "6b3748a738cae545ff40a081e22be2470792314d911f3a3c3e172abf86639579"
+
+[[files]]
+file = "local/hammer of the core default recipe"
+hash = "0b72d0ffd249eca49dc46b69a8928415892ded1c05b0a44328a9c8fa6dfd1450"
 
 [[files]]
 file = "local/todo.md"
@@ -71,11 +75,6 @@ metafile = true
 [[files]]
 file = "mods/expandedredstone.pw.toml"
 hash = "59326406e5e8e68735ac7999048e07911c0db6d47829d4c45c21c3a3fbe8fb7b"
-metafile = true
-
-[[files]]
-file = "mods/fplib.pw.toml"
-hash = "6fe40dc78808435e47136228fb1cb339e78794836ee9dc059d804c88133c9c4d"
 metafile = true
 
 [[files]]
