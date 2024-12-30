@@ -30,6 +30,7 @@ Folk of Thaumaturgy is a pack for Minecraft 1.7.10 centered around Thaumcraft, w
     - Wawla ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/wawla) | [GitHub](https://github.com/Darkhax-Minecraft/WAWLA))
 
 ### Performance
+- Angelica ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/angelica) | [GitHub](https://github.com/GTNewHorizons/Angelica))
 - ArchaicFix ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/archaicfix) | [GitHub](https://github.com/embeddedt/ArchaicFix))
 
 ### Building

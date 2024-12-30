@@ -5,6 +5,15 @@ file = "README.md"
 hash = "52d5ba9d8ac3f60d85fc1a3310c0cf72ca5a01b10da8b983eade97fd63200866"
 
 [[files]]
+file = "local/todo.md"
+hash = "6c1369517b9737f69fcd05f4b3c4196b40d0eb0c3440657755c8c3b0bf8006fd"
+
+[[files]]
+file = "mods/angelica.pw.toml"
+hash = "1f35fd114555f082bc70e2bbe8da719a43e961bc9451d1309bfb093d01cb59ec"
+metafile = true
+
+[[files]]
 file = "mods/archaicfix.pw.toml"
 hash = "92e0ab3a1611367df378c257cb1e8867b0bf571f64f7e1ddc2e249d608753f39"
 metafile = true
@@ -62,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/expandedredstone.pw.toml"
 hash = "59326406e5e8e68735ac7999048e07911c0db6d47829d4c45c21c3a3fbe8fb7b"
+metafile = true
+
+[[files]]
+file = "mods/fplib.pw.toml"
+hash = "6fe40dc78808435e47136228fb1cb339e78794836ee9dc059d804c88133c9c4d"
 metafile = true
 
 [[files]]
