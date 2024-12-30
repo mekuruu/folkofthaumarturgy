@@ -1,3 +1,5 @@
 # Exclude CF and Modrinth exports
 *.mrpack
 *.zip
+# Exclude local files
+local/

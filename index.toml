@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "4a7b5dcb75467c85d01c376991991a8cd8d69c6be7bb7165d739706a0cb4eacc"
+hash = "52d5ba9d8ac3f60d85fc1a3310c0cf72ca5a01b10da8b983eade97fd63200866"
 
 [[files]]
 file = "mods/archaicfix.pw.toml"
