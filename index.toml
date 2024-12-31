@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "45bdcfa43eaf893c5737966e22ad280560e08b34fa9202c2762ccbc8731452e8"
-
-[[files]]
-file = "local/hammer of the core default recipe"
-hash = "0b72d0ffd249eca49dc46b69a8928415892ded1c05b0a44328a9c8fa6dfd1450"
-
-[[files]]
-file = "local/todo.md"
-hash = "6c1369517b9737f69fcd05f4b3c4196b40d0eb0c3440657755c8c3b0bf8006fd"
-
-[[files]]
 file = "mods/angelica.pw.toml"
 hash = "1f35fd114555f082bc70e2bbe8da719a43e961bc9451d1309bfb093d01cb59ec"
 metafile = true
@@ -155,3 +143,7 @@ metafile = true
 [[files]]
 file = "scripts/ham.zs"
 hash = "c107cc64330fde049c3370525632ce83a33cb4ecc0cc4b53edd5275403526d0b"
+
+[[files]]
+file = "scripts/runicAltar.zs"
+hash = "118f5e5d807644e542e1ae6289152414a6be994f4e199a306cd628d00d22a67e"
