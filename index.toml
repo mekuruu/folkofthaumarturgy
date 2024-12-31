@@ -86,6 +86,11 @@ hash = "6c340be9f025209e13e6b07255ec38dc6fc4ff8b7e8e203e8019ff09e472a186"
 metafile = true
 
 [[files]]
+file = "mods/ironchest.pw.toml"
+hash = "8574beb21b8ceef502931d3e6e2357dc8ff5c5099c5727d297c917ba4bbe7cd1"
+metafile = true
+
+[[files]]
 file = "mods/modtweaker.pw.toml"
 hash = "2efe15f652487360e8673eb80d8e565218c1bddbea5f4a22ae41a2fb8da7c675"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/salis-arcana.pw.toml"
 hash = "a73b01186a8b1b73d51e52273b0526a1565e969fa84f8342683f17bf514608cc"
+metafile = true
+
+[[files]]
+file = "mods/serverutilities.pw.toml"
+hash = "cb0d5c84d9d936519cd33bb03f2d6c2a76e1728f39068c0ef03499defe273283"
 metafile = true
 
 [[files]]

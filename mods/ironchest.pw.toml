@@ -1,0 +1,15 @@
+name = "ironchest"
+filename = "IronChest-6.0.87.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ironchest/releases/download/6.0.87/IronChest-6.0.87.jar"
+hash-format = "sha256"
+hash = "cb87e44e9619c92c9c8e8744e36fca46e20dc0fa8f834322da6cea0b13cb18d8"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/ironchest"
+tag = "6.0.87"
