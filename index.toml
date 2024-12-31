@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "6b3748a738cae545ff40a081e22be2470792314d911f3a3c3e172abf86639579"
+hash = "45bdcfa43eaf893c5737966e22ad280560e08b34fa9202c2762ccbc8731452e8"
 
 [[files]]
 file = "local/hammer of the core default recipe"
