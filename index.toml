@@ -142,8 +142,8 @@ metafile = true
 
 [[files]]
 file = "scripts/ham.zs"
-hash = "c107cc64330fde049c3370525632ce83a33cb4ecc0cc4b53edd5275403526d0b"
+hash = "2525380b6420caa52ea00b5811c4086c3189f0fb9bf14ce66392eb89c28ab08d"
 
 [[files]]
 file = "scripts/runicAltar.zs"
-hash = "118f5e5d807644e542e1ae6289152414a6be994f4e199a306cd628d00d22a67e"
+hash = "495fca2a491bca83144703f8b058692c4a58d772bb737a0608f2d71f5c05e327"
