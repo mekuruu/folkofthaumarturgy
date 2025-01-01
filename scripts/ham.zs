@@ -25,7 +25,7 @@ recipes.addShaped(<hammerz:DiamondHammer>, [
 	]);
 
 // botania hammers (to be changed to workbench/infusion recipes)
-recipes.addShaped(<hammerz:Manasteel>, [
+mods.thaumcraft.Arcane.addShaped("THAUMIUM", <hammerz:Manasteel>, "ordo 30 ignis 45 terra 30 perditio 15", [
 	[<Botania:manaResource>, <Botania:storage>, <Botania:manaResource>],
 	[null, <Botania:manaResource:3>, null],
 	[null, <Botania:manaResource:3>, null]

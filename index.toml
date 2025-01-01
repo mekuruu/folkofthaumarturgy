@@ -156,7 +156,7 @@ hash = "ef6759cfef7f5d6e2f81e3e799fb43a19a0d5c8969a03a33568857f97ad031e9"
 
 [[files]]
 file = "scripts/ham.zs"
-hash = "2525380b6420caa52ea00b5811c4086c3189f0fb9bf14ce66392eb89c28ab08d"
+hash = "77da5378e2afafc67809d1f96abfaab0a25dc990a9380a0d57a9169ec1491098"
 
 [[files]]
 file = "scripts/runicAltar.zs"
