@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ThaumicTinkerer.cfg"
+hash = "86aad4c3c65333b7c41cd9d7b0853642cb63760e39578fb794bf9c810eedd07b"
+
+[[files]]
 file = "mods/angelica.pw.toml"
 hash = "1f35fd114555f082bc70e2bbe8da719a43e961bc9451d1309bfb093d01cb59ec"
 metafile = true
