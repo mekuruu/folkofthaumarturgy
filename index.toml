@@ -66,6 +66,11 @@ hash = "0692772b07a0a4a778336bc47fdd8859136b275e2e24ee6bbf99ec8917ca1ca6"
 metafile = true
 
 [[files]]
+file = "mods/dummycore.pw.toml"
+hash = "515d28b55001625284f434c4d704efce3288ca3baa5e386615461c7c8bc40088"
+metafile = true
+
+[[files]]
 file = "mods/expandedredstone.pw.toml"
 hash = "59326406e5e8e68735ac7999048e07911c0db6d47829d4c45c21c3a3fbe8fb7b"
 metafile = true
@@ -128,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/thaumcraft.pw.toml"
 hash = "f0b23db33db035ffb866e3f09a39dc7019a0de90fe32069bbc48df2ad9dc1a68"
+metafile = true
+
+[[files]]
+file = "mods/thaumicbases.pw.toml"
+hash = "65639c45a94b1ca5725db6c66cd7860c964f2eed0dfa91bc426e02ddb70b1f1d"
 metafile = true
 
 [[files]]
