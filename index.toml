@@ -80,6 +80,11 @@ hash = "59326406e5e8e68735ac7999048e07911c0db6d47829d4c45c21c3a3fbe8fb7b"
 metafile = true
 
 [[files]]
+file = "mods/forgelin.pw.toml"
+hash = "2fe48cdeae8e3a286c54ccc11ceeece85595625145dc009fdd391b5bf804e1bc"
+metafile = true
+
+[[files]]
 file = "mods/gadomancy.pw.toml"
 hash = "123d4347fef04b307b243ac27954c0a386ba803b34e8399406ee55a109654be1"
 metafile = true
@@ -132,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/thaumcraft-nei-plugin.pw.toml"
 hash = "f753f59a399e3dc7e7d9c1884965b32f2ccf5cce394dd0918ac7e9ab1029e787"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft-research-tweaks.pw.toml"
+hash = "a616aa0208335d76fbdc7659d5e9c6635b9612aa309b5d4d3f886175e2d5c8a5"
 metafile = true
 
 [[files]]

@@ -1,0 +1,15 @@
+name = "thaumcraft-research-tweaks"
+filename = "ThaumcraftResearchTweaks-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/thaumcraft-research-tweaks/releases/download/1.2.0/ThaumcraftResearchTweaks-1.2.0.jar"
+hash-format = "sha256"
+hash = "886f392764ceae3a24f457da0da156630d0beb76852b8aab683b8ca66b45f75a"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/thaumcraft-research-tweaks"
+tag = "1.2.0"

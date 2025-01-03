@@ -16,6 +16,8 @@ Folk of Thaumaturgy is a pack for Minecraft 1.7.10 centered around Thaumcraft, w
 	- Thaumic Bases (GTNH fork [GitHub](https://github.com/GTNewHorizons/ThaumicBases)) 
     - Thaumic Tinkerer (GTNH fork | [GitHub](https://github.com/GTNewHorizons/ThaumicTinkerer/releases/tag/2.11.0))
     - TC4Tweaks (GTNH fork | [GitHub](https://github.com/GTNewHorizons/TC4Tweaks))
+    - ThaumicInventoryScanning (GTNH fork [GitHub](https://github.com/GTNewHorizons/ThaumicInventoryScanning)) 
+	- TCResearchTweaks ([GitHub](https://github.com/GTNewHorizons/thaumcraft-research-tweaks))
 
 ### Redstone Mods
 - ExpandedRedstone ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/expandedredstone) | [GitHub](https://github.com/ReikaKalseki/ExpandedRedstone))
@@ -48,5 +50,6 @@ Folk of Thaumaturgy is a pack for Minecraft 1.7.10 centered around Thaumcraft, w
     - ModTweaker ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/modtweaker))
 - DummyCore (GTNH fork [GitHub](https://github.com/GTNewHorizons/DummyCore))
 - DragonAPI ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/dragonapi) | [GitHub](https://github.com/ReikaKalseki/DragonAPI))
+- Forgelin ([GitHub](https://github.com/GTNewHorizons/Forgelin/))
 - GTNHLib ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/gtnhlib) | [GitHub](https://github.com/GTNewHorizons/GTNHLib))
 - UniMixins ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/unimixins) | [GitHub](https://github.com/LegacyModdingMC/UniMixins))
