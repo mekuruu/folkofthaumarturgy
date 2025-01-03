@@ -165,6 +165,10 @@ hash = "62ea2b80fdff17bc5c4f150c771f946067ae5bf0399ffe10b4eed5a0cde29b91"
 metafile = true
 
 [[files]]
+file = "scripts/basesDies.zs"
+hash = "7fbe06609d7b145d0951dccb1400724835332d2f126690bdba2eb6411119e2bb"
+
+[[files]]
 file = "scripts/elementalTools.zs"
 hash = "ef6759cfef7f5d6e2f81e3e799fb43a19a0d5c8969a03a33568857f97ad031e9"
 
