@@ -145,6 +145,11 @@ hash = "65639c45a94b1ca5725db6c66cd7860c964f2eed0dfa91bc426e02ddb70b1f1d"
 metafile = true
 
 [[files]]
+file = "mods/thaumicinventoryscanning.pw.toml"
+hash = "001bc02a9780bc72b0e6ae1361f56108dd54585f2014968e13ccd3057dc5a32b"
+metafile = true
+
+[[files]]
 file = "mods/thaumictinkerer.pw.toml"
 hash = "31152a1c3a615c9971f9fdb4e99db667b52b429839be63f830690e7ceaa9ea5c"
 metafile = true

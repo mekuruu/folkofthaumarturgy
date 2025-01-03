@@ -1,0 +1,15 @@
+name = "ThaumicInventoryScanning"
+filename = "tcinventoryscan-1.2.0-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ThaumicInventoryScanning/releases/download/1.2.0-GTNH/tcinventoryscan-1.2.0-GTNH.jar"
+hash-format = "sha256"
+hash = "bfd958162eed46b0fc4301516edbbdd675dd7e6acb3a84f64ecacf4e5077d4ff"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/ThaumicInventoryScanning"
+tag = "1.2.0-GTNH"
