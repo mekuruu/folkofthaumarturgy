@@ -1,0 +1,15 @@
+name = "Thaumic_Exploration"
+filename = "Thaumic-Exploration-1.3.7-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.3.7-GTNH/Thaumic-Exploration-1.3.7-GTNH.jar"
+hash-format = "sha256"
+hash = "0e416d5225505c9bc12073e2fd65ec78bbf5941ebe2f3b5226dfe480a93ddb1b"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/Thaumic_Exploration"
+tag = "1.3.7-GTNH"

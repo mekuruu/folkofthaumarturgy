@@ -14,6 +14,7 @@ Folk of Thaumaturgy is a pack for Minecraft 1.7.10 centered around Thaumcraft, w
     - Automagy ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/automagy)]
     - Gadomancy (GTNH fork | [GitHub](https://github.com/GTNewHorizons/Gadomancy/))
 	- Thaumic Bases (GTNH fork [GitHub](https://github.com/GTNewHorizons/ThaumicBases)) 
+	- Thaumic Exploration (GTNH fork | [GitHub](https://github.com/GTNewHorizons/Thaumic_Exploration/releases/download/1.3.7-GTNH/Thaumic-Exploration-1.3.7-GTNH.jar))
     - Thaumic Tinkerer (GTNH fork | [GitHub](https://github.com/GTNewHorizons/ThaumicTinkerer/releases/tag/2.11.0))
     - TC4Tweaks (GTNH fork | [GitHub](https://github.com/GTNewHorizons/TC4Tweaks))
     - ThaumicInventoryScanning (GTNH fork [GitHub](https://github.com/GTNewHorizons/ThaumicInventoryScanning)) 
@@ -34,6 +35,8 @@ Folk of Thaumaturgy is a pack for Minecraft 1.7.10 centered around Thaumcraft, w
 - ServerUtilities ([GitHub](https://github.com/GTNewHorizons/ServerUtilities))
 - Waila ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/waila/))
     - Wawla ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/wawla) | [GitHub](https://github.com/Darkhax-Minecraft/WAWLA))
+- Xaero's Minimap ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- Xaero's World Map ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/xaeros-world-map))    
 
 ### Performance
 - Angelica ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/angelica) | [GitHub](https://github.com/GTNewHorizons/Angelica))
