@@ -207,5 +207,9 @@ file = "scripts/ham.zs"
 hash = "77da5378e2afafc67809d1f96abfaab0a25dc990a9380a0d57a9169ec1491098"
 
 [[files]]
+file = "scripts/manaBeanHRTReal.zs"
+hash = "c1b95394e3d620be59069080f4fb62da3342f882cd02fc930ea15f1a7b9137c9"
+
+[[files]]
 file = "scripts/runicAltar.zs"
 hash = "495fca2a491bca83144703f8b058692c4a58d772bb737a0608f2d71f5c05e327"
