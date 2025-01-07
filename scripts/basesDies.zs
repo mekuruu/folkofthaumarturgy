@@ -17,6 +17,7 @@ mods.thaumcraft.Research.removeResearch("TB.NodeFoci.Purity");
 mods.thaumcraft.Research.removeResearch("TB.NodeFoci.Efficiency");
 mods.thaumcraft.Research.removeResearch("TB.NodeFoci.Sinister");
 mods.thaumcraft.Research.removeResearch("TB.NodeFoci.Speed"); // this is why MT is a mess
+mods.thaumcraft.Research.orphanResearch("TB.NODESTABILIZERADV");
 mods.thaumcraft.Research.removeResearch("TB.NODESTABILIZERADV");
 mods.thaumcraft.Research.orphanResearch("TB.VISPOWER");
 mods.thaumcraft.Research.removeResearch("TB.VISPOWER");

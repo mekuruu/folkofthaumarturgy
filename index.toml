@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "scripts/basesDies.zs"
-hash = "7fbe06609d7b145d0951dccb1400724835332d2f126690bdba2eb6411119e2bb"
+hash = "f2e6d22d093068d1b5f03c5cf15919884d96c41768df21cf49f51b8ba12dde9f"
 
 [[files]]
 file = "scripts/elementalTools.zs"
