@@ -80,6 +80,11 @@ hash = "59326406e5e8e68735ac7999048e07911c0db6d47829d4c45c21c3a3fbe8fb7b"
 metafile = true
 
 [[files]]
+file = "mods/forbiddenmagic.pw.toml"
+hash = "f8628c33b17419f4bec98835b9d856b0476191cb1cc9d52ec1c41598edd39ea3"
+metafile = true
+
+[[files]]
 file = "mods/forgelin.pw.toml"
 hash = "2fe48cdeae8e3a286c54ccc11ceeece85595625145dc009fdd391b5bf804e1bc"
 metafile = true
@@ -212,4 +217,8 @@ hash = "c1b95394e3d620be59069080f4fb62da3342f882cd02fc930ea15f1a7b9137c9"
 
 [[files]]
 file = "scripts/runicAltar.zs"
-hash = "495fca2a491bca83144703f8b058692c4a58d772bb737a0608f2d71f5c05e327"
+hash = "d5b761c11cf8d411ebff343561f78016bc43abb61b08e3c70dbee0352ec3a666"
+
+[[files]]
+file = "scripts/thaumTweaks.zs"
+hash = "ecf00636988266a225571a4f07dac556dfc56434cca92c24e1472a9fa7103694"

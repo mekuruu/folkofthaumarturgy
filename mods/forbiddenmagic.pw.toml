@@ -1,0 +1,15 @@
+name = "ForbiddenMagic"
+filename = "Forbidden.Magic-0.8.0-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ForbiddenMagic/releases/download/0.8.0-GTNH/Forbidden.Magic-0.8.0-GTNH.jar"
+hash-format = "sha256"
+hash = "7ef2d9682cb32a299120b0975ab5685b5d07d180a657a5a281f670e1f9b36d0b"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/ForbiddenMagic"
+tag = "0.8.0-GTNH"
