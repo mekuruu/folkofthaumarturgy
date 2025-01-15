@@ -46,7 +46,12 @@ metafile = true
 
 [[files]]
 file = "mods/chisel.pw.toml"
-hash = "e05e261e4b7eae159f1deff4b9b436bcdfab8ee9f875d6dcf7f44764c136ea09"
+hash = "7377139d602350d18d300283271bcac24dc9ce5dda11d549b7d5639a0ebd7ee6"
+metafile = true
+
+[[files]]
+file = "mods/chiseltones.pw.toml"
+hash = "a72f6b17796436aed828d7b0d319ce37434e561b4727a7f96720a56fb77d2319"
 metafile = true
 
 [[files]]
@@ -121,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/salis-arcana.pw.toml"
-hash = "a73b01186a8b1b73d51e52273b0526a1565e969fa84f8342683f17bf514608cc"
+hash = "01e7b972450e611b691023a93c3aaba9bfa77302002de17f15df703bd4dd3392"
 metafile = true
 
 [[files]]
@@ -197,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "565b2f68688e8675875ba2ad4c989fa08527c2d074be359baeb641632763d41d"
+metafile = true
+
+[[files]]
+file = "mods/ztones.pw.toml"
+hash = "c03b3236b7169f8999bee4b3863f0ec725cf4ffe07ff9f9b8a021484331c468b"
 metafile = true
 
 [[files]]
