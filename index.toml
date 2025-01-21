@@ -5,6 +5,11 @@ file = "config/ThaumicTinkerer.cfg"
 hash = "86aad4c3c65333b7c41cd9d7b0853642cb63760e39578fb794bf9c810eedd07b"
 
 [[files]]
+file = "mods/additional-pipes-for-buildcraft.pw.toml"
+hash = "a66037092e6b47b166a2d9ba19ffe049e240131ccec980f9d64e33e1d5037dac"
+metafile = true
+
+[[files]]
 file = "mods/angelica.pw.toml"
 hash = "1f35fd114555f082bc70e2bbe8da719a43e961bc9451d1309bfb093d01cb59ec"
 metafile = true
@@ -214,12 +219,20 @@ file = "scripts/basesDies.zs"
 hash = "f2e6d22d093068d1b5f03c5cf15919884d96c41768df21cf49f51b8ba12dde9f"
 
 [[files]]
+file = "scripts/bosniaThaumonomicon.zs"
+hash = "7d4e5f806e0785a6d0e56d33549bb7eb6b3023ef3b1106d5597e84961447c68d"
+
+[[files]]
+file = "scripts/bosniaTweaks.zs"
+hash = "f2d9bf341889d7d0ef40220db780cf73c3b96d45e23604bce02f865a09b9e501"
+
+[[files]]
 file = "scripts/elementalTools.zs"
 hash = "ef6759cfef7f5d6e2f81e3e799fb43a19a0d5c8969a03a33568857f97ad031e9"
 
 [[files]]
 file = "scripts/ham.zs"
-hash = "77da5378e2afafc67809d1f96abfaab0a25dc990a9380a0d57a9169ec1491098"
+hash = "7343d0a47cddf8cf5c5282d5bbbf3e409a2c7448cca67a93957d6b75afa2fc00"
 
 [[files]]
 file = "scripts/manaBeanHRTReal.zs"

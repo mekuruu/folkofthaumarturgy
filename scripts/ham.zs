@@ -38,7 +38,19 @@ recipes.addShaped(<hammerz:ElvenElementium>, [
 	]);
 
  // thaumcraft hammers
- mods.thaumcraft.Arcane.addShaped("THAUMIUM", <hammerz:Thaumium>, "ordo 30 terra 30 ignis 30", [
-	[<Thaumcraft:ItemResource:2>, <Thaumcraft:blockCosmeticSolid:4>, <Thaumcraft:ItemResource:2>], 
-	[null, <minecraft:stick>, null],
-	[null, <minecraft:stick>, null]]);
+mods.thaumcraft.Arcane.addShaped("THAUMIUM",
+	 <hammerz:Thaumium>, 
+	 "terra 15, ignis 15, ordo 15", 
+	 [
+	 	[<Thaumcraft:ItemResource:2>, <Thaumcraft:blockCosmeticSolid:4>, <Thaumcraft:ItemResource:2>],
+	 	[null, <minecraft:stick>, null], 
+	 	[null, <minecraft:stick>, null]
+	 ]
+); 
+
+mods.thaumcraft.Research.addArcanePage(
+	"THAUMIUM", 
+	<hammerz:Thaumium>
+);
+
+mods.thaumcraft.Research.refreshResearchRecipe("THAUMIUM");

@@ -1,0 +1,13 @@
+name = "Additional Pipes for Buildcraft"
+filename = "additionalpipes-4.7.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9b79dfddedc0d49b554e3e363cabef4824d0e97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2614309
+project-id = 302569
