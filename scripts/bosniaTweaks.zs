@@ -1,3 +1,5 @@
+import minetweaker.item.IItemStack;
+
 // set custom oreDicts
 // mysticalFlowerDict
 val mysticalFlowerDict = <ore:mysticalFlowers>; 
@@ -10,45 +12,51 @@ mysticalPetalDict.add(<Botania:petal:*>);
 // add aspects to mystical flowers
 mods.thaumcraft.Aspects.add(<Botania:flower:*>, "herba 4");
 
-// add recipes for petals
-// normal flowers
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal> * 3, <Botania:flower>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:1> * 3, <Botania:flower:1>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:2> * 3, <Botania:flower:2>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:3> * 3, <Botania:flower:3>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:4> * 3, <Botania:flower:4>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:5> * 3, <Botania:flower:5>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:6> * 3, <Botania:flower:6>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:7> * 3, <Botania:flower:7>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:8> * 3, <Botania:flower:8>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:9> * 3, <Botania:flower:9>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:10> * 3, <Botania:flower:10>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:11> * 3, <Botania:flower:11>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:12> * 3, <Botania:flower:12>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:13> * 3, <Botania:flower:13>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:14> * 3, <Botania:flower:14>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:15> * 3, <Botania:flower:15>, "perditio 1");
+// tweak petal recipes
+// variables
 
-// tall flowers
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal> * 6, <Botania:doubleFlower1>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:1> * 6, <Botania:doubleFlower1:1>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:2> * 6, <Botania:doubleFlower1:2>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:3> * 6, <Botania:doubleFlower1:3>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:4> * 6, <Botania:doubleFlower1:4>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:5> * 6, <Botania:doubleFlower1:5>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:6> * 6, <Botania:doubleFlower1:6>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:7> * 6, <Botania:doubleFlower1:7>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:8> * 6, <Botania:doubleFlower2>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:9> * 6, <Botania:doubleFlower2:1>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:10> * 6, <Botania:doubleFlower2:2>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:11> * 6, <Botania:doubleFlower2:3>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:12> * 6, <Botania:doubleFlower2:4>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:13> * 6, <Botania:doubleFlower2:5>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:14> * 6, <Botania:doubleFlower2:6>, "perditio 1");
-mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", <Botania:petal:15> * 6, <Botania:doubleFlower2:7>, "perditio 1");
-// [this fucking sucks gif]
+var BPetals = [
+	<Botania:petal>, 
+	<Botania:petal:1>, <Botania:petal:2>, <Botania:petal:3>, 
+	<Botania:petal:4>,<Botania:petal:5>, <Botania:petal:6>,  
+	<Botania:petal:7>,  <Botania:petal:8>,  <Botania:petal:9>,  
+	<Botania:petal:10>, <Botania:petal:11>, <Botania:petal:12>, 
+	<Botania:petal:13>, <Botania:petal:14>, <Botania:petal:15>
+	] as IItemStack[];
 
-// remove base aspects
+var BFlowers = [
+	<Botania:flower>, 
+	<Botania:flower:1>, <Botania:flower:2>, <Botania:flower:3>, 
+	<Botania:flower:4>,<Botania:flower:5>, <Botania:flower:6>,  
+	<Botania:flower:7>,  <Botania:flower:8>,  <Botania:flower:9>,  
+	<Botania:flower:10>, <Botania:flower:11>, <Botania:flower:12>, 
+	<Botania:flower:13>, <Botania:flower:14>, <Botania:flower:15>
+	] as IItemStack[];
+
+var BTallFlowers = [
+	<Botania:doubleFlower1>, 
+	<Botania:doubleFlower1:1>, <Botania:doubleFlower1:2>, <Botania:doubleFlower1:3>, 
+	<Botania:doubleFlower1:4>,<Botania:doubleFlower1:5>, <Botania:doubleFlower1:6>,  
+	<Botania:doubleFlower1:7>,  <Botania:doubleFlower2>,  <Botania:doubleFlower2:1>,  
+	<Botania:doubleFlower2:2>, <Botania:doubleFlower2:3>, <Botania:doubleFlower2:4>, 
+	<Botania:doubleFlower2:5>, <Botania:doubleFlower2:6>, <Botania:doubleFlower2:7>
+	] as IItemStack[];
+
+// recipe removal
+for i, petal in BPetals {
+	recipes.removeShapeless(petal);
+}
+
+// add crucible petal recipes
+for i, petal in BPetals {
+	var flower = BFlowers[i];
+	mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", petal * 3, flower, "perditio 1");	
+}
+
+for i, petal in BPetals {
+	var flower = BTallFlowers[i];
+	mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", petal * 6, flower, "perditio 2");	
+}
 
 // add aspects to petals
 mods.thaumcraft.Aspects.set(<Botania:petal>, "ordo 2"); // tahara
@@ -81,3 +89,20 @@ mods.thaumcraft.Arcane.addShaped(
 		[<ore:cobblestone>, <Thaumcraft:ItemResource:14>, <ore:cobblestone>]
 	]
 );
+
+// mana spreader
+recipes.remove(<Botania:spreader>);
+mods.thaumcraft.Arcane.addShaped(
+	"LEXIC", 
+	<Botania:spreader>, 
+	"aer 10, aqua 10, ordo 10, terra", 
+	[
+		[<ore:livingwood>, <ore:livingwood>, <ore:livingwood>],
+		[<ore:ingotGold>, <ore:mysticalPetals>, null],
+		[<ore:livingwood>, <ore:livingwood>, <ore:livingwood>]
+	]
+);
+
+// mana pool
+
+// runic altar
