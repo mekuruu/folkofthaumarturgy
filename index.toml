@@ -115,6 +115,11 @@ hash = "6c340be9f025209e13e6b07255ec38dc6fc4ff8b7e8e203e8019ff09e472a186"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tweaks-extrafoamy.pw.toml"
+hash = "063d49925d420c05b1c9d35489e9cd09ec3cf9698d3f048a2c1fb5c7792430b3"
+metafile = true
+
+[[files]]
 file = "mods/ironchest.pw.toml"
 hash = "8574beb21b8ceef502931d3e6e2357dc8ff5c5099c5727d297c917ba4bbe7cd1"
 metafile = true
