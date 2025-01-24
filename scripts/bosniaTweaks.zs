@@ -103,6 +103,55 @@ mods.thaumcraft.Arcane.addShaped(
 	]
 );
 
+// diluted mana pool
+recipes.remove(<Botania:pool:2>);
+mods.thaumcraft.Arcane.addShaped(
+	"LEXIC", 
+	<Botania:pool:2>, 
+	"aer 20, aqua 20, terra 20, ignis 20, ordo 20, perditio 20", 
+	[
+		[null, null, null],
+		[<Botania:livingrock0Slab>, null, <Botania:livingrock0Slab>],
+		[<Botania:livingrock0Slab>, <Botania:livingrock0Slab>, <Botania:livingrock0Slab>]
+	]
+);
+
 // mana pool
+recipes.remove(<Botania:pool>);
+mods.botania.ManaInfusion.addInfusion(<Botania:pool>, <Botania:pool:2>, 20000);
 
 // runic altar
+recipes.remove(<Botania:runeAltar>);
+mods.thaumcraft.Infusion.addRecipe(
+	"LEXIC", 
+	<Botania:livingrock> , 
+	[
+		<Botania:manaResource:1>, 
+		<Botania:manaResource:2>, 
+		<Thaumcraft:ItemResource:14>, 
+		<Thaumcraft:ItemResource:14>, 
+		<Botania:manaResource:2>,
+		<Botania:manaResource:1>
+	], 
+	"praecantatio 16, permutatio 16, herba 16, potentia 16",
+	<Botania:runeAltar>,
+	5
+);
+
+// alchemy catalyst
+recipes.remove(<Botania:alchemyCatalyst>);
+mods.thaumcraft.Infusion.addRecipe(
+	"LEXIC",
+	<Botania:rune:8>,
+	[
+		<Botania:livingrock>,
+		<minecraft:gold_ingot>,
+		<Thaumcraft:ItemResource:14>,
+		<Thaumcraft:ItemResource:14>,
+		<minecraft:gold_ingot>,
+		<Botania:livingrock>
+	],
+	"praecantatio 32, permutatio 32, alienis 16, ordo 16, perditio 16",
+	<Botania:alchemyCatalyst>,
+	6
+);
