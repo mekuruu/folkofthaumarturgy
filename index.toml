@@ -229,7 +229,7 @@ hash = "7d4e5f806e0785a6d0e56d33549bb7eb6b3023ef3b1106d5597e84961447c68d"
 
 [[files]]
 file = "scripts/bosniaTweaks.zs"
-hash = "36a99804988c8cdc600abaac59a6cd46e5c17d676edcdba88b10b002d1cbc19e"
+hash = "0e8a69ec78b6d9d963ba3746fd28e4da18300c8795143598977c5301d50fb415"
 
 [[files]]
 file = "scripts/elementalTools.zs"
