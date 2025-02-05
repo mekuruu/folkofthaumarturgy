@@ -1,13 +1,15 @@
-name = "Buildcraft"
-filename = "buildcraft-7.1.25.jar"
+name = "BuildCraft"
+filename = "buildcraft-7.1.42.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "21e934ff5bd74c9e62469b2f4ae9379036d484b5"
-mode = "metadata:curseforge"
+url = "https://github.com/GTNewHorizons/BuildCraft/releases/download/7.1.42/buildcraft-7.1.42.jar"
+hash-format = "sha256"
+hash = "c674e78db5e977b7e296d9d2ced19828d15d9bbd847c6027d4d94649392222bd"
 
 [update]
-[update.curseforge]
-file-id = 4055732
-project-id = 61811
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "GTNewHorizons/BuildCraft"
+tag = "7.1.42"

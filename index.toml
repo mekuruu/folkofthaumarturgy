@@ -35,13 +35,13 @@ hash = "671de8e68e89cefde9a64d2be0bccd68623236101579cc5d1be0bde9b2b7755f"
 metafile = true
 
 [[files]]
-file = "mods/buildcraft-compat.pw.toml"
-hash = "f1f8e280ed55bbc1133c73e7184727247d5e4c12a6aadabd4dc0f9692df64026"
+file = "mods/buildcraft.pw.toml"
+hash = "f174869b70c062f1cceeb27dad32264dee5cd5114b7e1c64ec68841f1c152132"
 metafile = true
 
 [[files]]
-file = "mods/buildcraft.pw.toml"
-hash = "9177b1779ec85c0844251d374cd48f04b6babd11f770f2d1848dd0634d5a29bc"
+file = "mods/buildcraftcompat.pw.toml"
+hash = "68bf3c6ea9bc714fbd38db09073820ea01dea405900028433f5a1ae28be2f1fc"
 metafile = true
 
 [[files]]
@@ -60,8 +60,13 @@ hash = "a72f6b17796436aed828d7b0d319ce37434e561b4727a7f96720a56fb77d2319"
 metafile = true
 
 [[files]]
-file = "mods/codechickencore-unofficial.pw.toml"
-hash = "0a06fbd955806370085b0945aebd87aa046240ed4616c8537c3c959462fb079c"
+file = "mods/codechickencore.pw.toml"
+hash = "6d9ffaa17d6c6e007b441a0a6afe8d01cf8a5c9aae122dc6b75d0ef5c54f6ae5"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "532832dfebefa96635d1567dbfa473795f63dd86af44e770f3a2f34d8c858193"
 metafile = true
 
 [[files]]
@@ -130,8 +135,8 @@ hash = "2efe15f652487360e8673eb80d8e565218c1bddbea5f4a22ae41a2fb8da7c675"
 metafile = true
 
 [[files]]
-file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "33e8933ef732e899b4990b591edd83d9dd500dd79006b2c253227f1306f94e87"
+file = "mods/notenoughitems.pw.toml"
+hash = "4d9ed7b6dff75e67a27f0ea8ef1da48be63288aba8adb50249c1408dc570e930"
 metafile = true
 
 [[files]]
@@ -245,7 +250,7 @@ hash = "c1b95394e3d620be59069080f4fb62da3342f882cd02fc930ea15f1a7b9137c9"
 
 [[files]]
 file = "scripts/runicAltar.zs"
-hash = "d5b761c11cf8d411ebff343561f78016bc43abb61b08e3c70dbee0352ec3a666"
+hash = "44855cdcaf68da24f84f6bd993f8f9d8ec25d07c27bce0532d83b09092bcd46f"
 
 [[files]]
 file = "scripts/thaumTweaks.zs"
