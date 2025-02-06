@@ -85,6 +85,11 @@ hash = "0692772b07a0a4a778336bc47fdd8859136b275e2e24ee6bbf99ec8917ca1ca6"
 metafile = true
 
 [[files]]
+file = "mods/dual-hotbar.pw.toml"
+hash = "05f68431d21ce77c1426026a8e261790b0facedbce26552e25fa015e9071c8ae"
+metafile = true
+
+[[files]]
 file = "mods/dummycore.pw.toml"
 hash = "515d28b55001625284f434c4d704efce3288ca3baa5e386615461c7c8bc40088"
 metafile = true
@@ -192,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/thaumictinkerer.pw.toml"
 hash = "31152a1c3a615c9971f9fdb4e99db667b52b429839be63f830690e7ceaa9ea5c"
+metafile = true
+
+[[files]]
+file = "mods/treeclimbing.pw.toml"
+hash = "ecc2f7e425e9ccfd2ab93fa3a3a875626434960cf270a2781f654346ad7ecab0"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "TreeClimbing"
+filename = "TreeClimbing 1.7.10 V33a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f7e698cd8d66112b30ee7c0d3224ba31fb55e71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4721206
+project-id = 347551

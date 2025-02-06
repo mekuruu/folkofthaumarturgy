@@ -25,6 +25,7 @@ Folk of Thaumaturgy is a pack for Minecraft 1.7.10 centered around Thaumcraft, w
 - ExpandedRedstone ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/expandedredstone) | [GitHub](https://github.com/ReikaKalseki/ExpandedRedstone))
 
 ### Utilities
+- Dual Hotbar ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/dual-hotbar))
 - Hammerz ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/hammerz) | [GitHub](https://github.com/ColinGBos/Hammerz))
 - Iron Chests (GTNH fork | [GitHub](https://github.com/GTNewHorizons/ironchest))
 - NotEnoughItems Unofficial 1.7.10 ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/notenoughitems-gtnh) | [GitHub](https://github.com/GTNewHorizons/NotEnoughItems))
@@ -32,6 +33,7 @@ Folk of Thaumaturgy is a pack for Minecraft 1.7.10 centered around Thaumcraft, w
         - TCNEIAdditions ([GitHub](https://github.com/GTNewHorizons/TCNEIAdditions))
 - Salis Arcana ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/salis-arcana) | [GitHub](https://github.com/rndmorris/Salis-Arcana))
 - ServerUtilities ([GitHub](https://github.com/GTNewHorizons/ServerUtilities))
+- TreeClimbing ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/treeclimbing))
 - Waila ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/waila/))
     - Wawla ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/wawla) | [GitHub](https://github.com/Darkhax-Minecraft/WAWLA))
 - Xaero's Minimap ([Curseforge](https://legacy.curseforge.com/minecraft/mc-mods/xaeros-minimap)
