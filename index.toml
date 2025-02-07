@@ -100,6 +100,11 @@ hash = "59326406e5e8e68735ac7999048e07911c0db6d47829d4c45c21c3a3fbe8fb7b"
 metafile = true
 
 [[files]]
+file = "mods/falsepatternlib.pw.toml"
+hash = "0989c1c2ed2e410eaf06bbae79d57885a99f84fcc1c173b1adeab62cdd025fc5"
+metafile = true
+
+[[files]]
 file = "mods/forbiddenmagic.pw.toml"
 hash = "f8628c33b17419f4bec98835b9d856b0476191cb1cc9d52ec1c41598edd39ea3"
 metafile = true
@@ -132,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/ironchest.pw.toml"
 hash = "8574beb21b8ceef502931d3e6e2357dc8ff5c5099c5727d297c917ba4bbe7cd1"
+metafile = true
+
+[[files]]
+file = "mods/laggoggleslegacy.pw.toml"
+hash = "37dc7b986d0f8b4c41eae5a73e16dd72e924055e0020dbc3d3b545a79effd55c"
 metafile = true
 
 [[files]]

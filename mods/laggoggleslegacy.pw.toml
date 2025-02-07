@@ -1,0 +1,15 @@
+name = "LagGogglesLegacy"
+filename = "laggoggles-mc1.7.10-4.16.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FalsePattern/LagGogglesLegacy/releases/download/4.16.1/laggoggles-mc1.7.10-4.16.1.jar"
+hash-format = "sha256"
+hash = "57f3353692c81a428e816d718cd1a5861d97c185c5abccc350222972423d53ba"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "FalsePattern/LagGogglesLegacy"
+tag = "4.16.1"
