@@ -250,7 +250,7 @@ hash = "f2e6d22d093068d1b5f03c5cf15919884d96c41768df21cf49f51b8ba12dde9f"
 
 [[files]]
 file = "scripts/bosniaThaumonomicon.zs"
-hash = "7d4e5f806e0785a6d0e56d33549bb7eb6b3023ef3b1106d5597e84961447c68d"
+hash = "0d39452163cc15f6c15b32da8953478cd0a6dbb3ac86c9b5b31d8f8154172373"
 
 [[files]]
 file = "scripts/bosniaTweaks.zs"
