@@ -50,12 +50,12 @@ for i, petal in BPetals {
 // add crucible petal recipes
 for i, petal in BPetals {
 	var flower = BFlowers[i];
-	mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", petal * 3, flower, "perditio 1");	
+	mods.thaumcraft.Crucible.addRecipe("PETALPROC", petal * 3, flower, "perditio 1");	
 }
 
 for i, petal in BPetals {
 	var flower = BTallFlowers[i];
-	mods.thaumcraft.Crucible.addRecipe("ENTROPICPROCESSING", petal * 6, flower, "perditio 2");	
+	mods.thaumcraft.Crucible.addRecipe("PETALPROC", petal * 6, flower, "perditio 2");	
 }
 
 // add aspects to petals
@@ -155,3 +155,53 @@ mods.thaumcraft.Infusion.addRecipe(
 	<Botania:alchemyCatalyst>,
 	6
 );
+
+// thaumonomicon!!
+mods.thaumcraft.Research.addTab("BOTANIA", "botania", "textures/items/blackLotus.png");
+game.setLocalization("en_US", "tc.research_category.BOTANIA", "Botanic World");
+mods.thaumcraft.Research.addResearch("LEXIC", "BOTANIA", "", 1, 0, 10, <Botania:lexicon>);
+mods.thaumcraft.Research.setRound("LEXIC", true);
+mods.thaumcraft.Research.setAutoUnlock("LEXIC", true);
+game.setLocalization("en_US", "tc.research_name.LEXIC", "Botanic World");
+game.setLocalization("en_US", "tc.research_text.LEXIC", "[FoT] What the colors hide");
+mods.thaumcraft.Research.addPage("LEXIC", "bot1.research_page.LEXIC");
+game.setLocalization(
+	"en_US",
+	"bot1.research_page.LEXIC", 
+	"Throughout the world, you've come across many phenomena. Aura nodes, eldritch obelisks, sinister totems. But the one that stood out the most were the Mystical Flowers. These flowers seem to be alike any other plant, but the true mystery is in their petals. They are magical, but in a way you simply can't wrap your head around. They hold both primal and compound aspects, confusingly enough - you have a theory on that, though."
+);
+mods.thaumcraft.Research.addPage("LEXIC", "bot2.research_page.LEXIC");
+game.setLocalization(
+	"en_US", 
+	"bot2.research_page.LEXIC", 
+	"They must hold a magic different than what you're used to. Instead of the six primal aspects, each flower channels one of 16 colorful elements, each representing something that makes up this newfound form of magic. You believe further study on this may help you on your journey."
+);
+mods.thaumcraft.Research.addCraftingPage("LEXIC", <Botania:lexicon>);
+
+mods.thaumcraft.Research.addResearch("PETALPROC", "BOTANIA", "perditio 1, herba 1, praecantatio 1", 3, 0, 1, <Botania:petal>);
+game.setLocalization("en_US", "tc.research_name.PETALPROC", "Petal Processing");
+game.setLocalization("en_US", "tc.research_text.PETALPROC", "[FoT] Making good use of colors");
+mods.thaumcraft.Research.addPrereq("PETALPROC", "LEXIC", false);
+mods.thaumcraft.Research.addPage("PETALPROC", "bot1.research_page.PETALPROC");
+game.setLocalization(
+	"en_US",
+	"bot1.research_page.PETALPROC", 
+	"You are now able to separate the petals from the flowers efficiently with alchemy. It's more efficient than doing it by hand, and you're not one to let things to go to waste. <LINE> These petals open up the opportunity to make new flowers out of them. This must be researched."
+);
+// you're gonna have to pretend that there's recipes here, 
+// i'm not writing all that shit by hand, 
+// for loops fucking break, 
+// and writing a Lua script to write all that out automatically is a waste of time 
+
+mods.thaumcraft.Research.addResearch("PETALAP", "BOTANIA", "herba 1, fabrico 1, praecantatio 1", 5, 0, 1, <Botania:altar>);
+game.setLocalization("en_US", "tc.research_name.PETALAP", "Petal Apothecary");
+game.setLocalization("en_US", "tc.research_text.PETALAP", "[FoT] Artificial botany");
+mods.thaumcraft.Research.setConcealed("PETALAP", true);
+mods.thaumcraft.Research.addPrereq("PETALAP", "PETALPROC", false);
+mods.thaumcraft.Research.addPage("PETALAP", "bot1.research_page.PETALAP");
+game.setLocalization(
+	"en_US",
+	"bot1.research_page.PETALAP", 
+	"You have figured out a way to make the Apothecary the Lexica Botania speaked of. This may be rudimentary, but with the right combination of materials, you're able to craft the flowers the Lexica speaks of."
+);
+mods.thaumcraft.Research.addArcanePage("PETALAP", <Botania:altar>);

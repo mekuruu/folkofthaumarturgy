@@ -249,12 +249,8 @@ file = "scripts/basesDies.zs"
 hash = "f2e6d22d093068d1b5f03c5cf15919884d96c41768df21cf49f51b8ba12dde9f"
 
 [[files]]
-file = "scripts/bosniaThaumonomicon.zs"
-hash = "0d39452163cc15f6c15b32da8953478cd0a6dbb3ac86c9b5b31d8f8154172373"
-
-[[files]]
 file = "scripts/bosniaTweaks.zs"
-hash = "0e8a69ec78b6d9d963ba3746fd28e4da18300c8795143598977c5301d50fb415"
+hash = "9c62787dc7e667a48741fec0d905006fa6c464db0a50ee731668a9f9290332a3"
 
 [[files]]
 file = "scripts/elementalTools.zs"
