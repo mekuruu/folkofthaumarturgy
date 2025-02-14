@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/serverutilities.pw.toml"
-hash = "cb0d5c84d9d936519cd33bb03f2d6c2a76e1728f39068c0ef03499defe273283"
+hash = "b755ee7b905a271f0b4b99652e4d36a24552cdf202fcdbcecb0245cc313e467c"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ hash = "f2e6d22d093068d1b5f03c5cf15919884d96c41768df21cf49f51b8ba12dde9f"
 
 [[files]]
 file = "scripts/bosniaTweaks.zs"
-hash = "9c62787dc7e667a48741fec0d905006fa6c464db0a50ee731668a9f9290332a3"
+hash = "72be23182d3963750045d83f29133ead2d2f38206ed3d838339213de64c3a867"
 
 [[files]]
 file = "scripts/elementalTools.zs"

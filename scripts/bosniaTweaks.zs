@@ -80,7 +80,7 @@ mods.thaumcraft.Aspects.set(<Botania:petal:15>, "praecantatio 2"); // kuro
 // petal apothecary
 recipes.remove(<Botania:altar:*>);
 mods.thaumcraft.Arcane.addShaped(
-	"LEXIC", 
+	"PETALPROC", 
 	<Botania:altar>, 
 	"aer 10, terra 10, ignis 10, aqua 10, ordo 10, perditio 10", 
 	[
@@ -93,7 +93,7 @@ mods.thaumcraft.Arcane.addShaped(
 // mana spreader
 recipes.remove(<Botania:spreader>);
 mods.thaumcraft.Arcane.addShaped(
-	"LEXIC", 
+	"MANASPREADER", 
 	<Botania:spreader>, 
 	"aer 10, aqua 10, ordo 10, terra", 
 	[
@@ -106,7 +106,7 @@ mods.thaumcraft.Arcane.addShaped(
 // diluted mana pool
 recipes.remove(<Botania:pool:2>);
 mods.thaumcraft.Arcane.addShaped(
-	"LEXIC", 
+	"SHITPOOL", 
 	<Botania:pool:2>, 
 	"aer 20, aqua 20, terra 20, ignis 20, ordo 20, perditio 20", 
 	[
@@ -159,6 +159,7 @@ mods.thaumcraft.Infusion.addRecipe(
 // thaumonomicon!!
 mods.thaumcraft.Research.addTab("BOTANIA", "botania", "textures/items/blackLotus.png");
 game.setLocalization("en_US", "tc.research_category.BOTANIA", "Botanic World");
+
 mods.thaumcraft.Research.addResearch("LEXIC", "BOTANIA", "", 1, 0, 10, <Botania:lexicon>);
 mods.thaumcraft.Research.setRound("LEXIC", true);
 mods.thaumcraft.Research.setAutoUnlock("LEXIC", true);
@@ -188,10 +189,7 @@ game.setLocalization(
 	"bot1.research_page.PETALPROC", 
 	"You are now able to separate the petals from the flowers efficiently with alchemy. It's more efficient than doing it by hand, and you're not one to let things to go to waste. <LINE> These petals open up the opportunity to make new flowers out of them. This must be researched."
 );
-// you're gonna have to pretend that there's recipes here, 
-// i'm not writing all that shit by hand, 
-// for loops fucking break, 
-// and writing a Lua script to write all that out automatically is a waste of time 
+mods.thaumcraft.Research.addCruciblePage("PETALPROC", <Botania:petal:15>);
 
 mods.thaumcraft.Research.addResearch("PETALAP", "BOTANIA", "herba 1, fabrico 1, praecantatio 1", 5, 0, 1, <Botania:altar>);
 game.setLocalization("en_US", "tc.research_name.PETALAP", "Petal Apothecary");
@@ -205,3 +203,37 @@ game.setLocalization(
 	"You have figured out a way to make the Apothecary the Lexica Botania speaked of. This may be rudimentary, but with the right combination of materials, you're able to craft the flowers the Lexica speaks of."
 );
 mods.thaumcraft.Research.addArcanePage("PETALAP", <Botania:altar>);
+
+mods.thaumcraft.Research.addResearch("SHITPOOL", "BOTANIA", "terra 1, fabrico 1, praecantatio 1, vinculum 1", 7, 1, 0, <Botania:pool:2>);
+game.setLocalization("en_US", "tc.research_name.SHITPOOL", "Diluted Mana Pool");
+game.setLocalization("en_US", "tc.research_text.SHITPOOL", "[FoT] Botanical storage");
+mods.thaumcraft.Research.setConcealed("SHITPOOL", true);
+mods.thaumcraft.Research.addPrereq("SHITPOOL", "PETALAP", false);
+mods.thaumcraft.Research.addPage("SHITPOOL", "bot1.research_page.SHITPOOL");
+game.setLocalization(
+	"en_US",
+	"bot1.research_page.SHITPOOL", 
+	"The mana the Lexica Botania speaks of seems to be a magical energy, similar to how you use Vis for your artifice, but its rules are considerably different. As such, you have designed a - rather rudimentary - storage option for it. <BR> You think it can be improved rather easily, but you may need to acquire mana before trying to improve it."
+);
+mods.thaumcraft.Research.addArcanePage("SHITPOOL", <Botania:pool:2>);
+
+mods.thaumcraft.Research.addResearch("MANASPREADER", "BOTANIA", "arbor 1, permutatio 1, praecantatio 1, aqua 1", 7, -1 as int, 0, <Botania:spreader>);
+game.setLocalization("en_US", "tc.research_name.MANASPREADER", "Mana Spreader");
+game.setLocalization("en_US", "tc.research_text.MANASPREADER", "[FoT] Botanical transfer");
+mods.thaumcraft.Research.setConcealed("MANASPREADER", true);
+mods.thaumcraft.Research.addPrereq("MANASPREADER", "PETALAP", false);
+mods.thaumcraft.Research.addPage("MANASPREADER", "bot1.research_page.MANASPREADER");
+game.setLocalization(
+	"en_US",
+	"bot1.research_page.MANASPREADER", 
+	"The mana the Lexica Botania speaks of seems to be a magical energy, similar to how you use Vis for your artifice, but its rules are considerably different. As such, you have designed a transfer device for it. Coupled with a mana storage, this should be all you need to start producing mana. <BR> Its design allows for easy improvements to its transfer capabilites, although you haven't found a way to amplify its effects yet."
+);
+mods.thaumcraft.Research.addArcanePage("MANASPREADER", <Botania:spreader>);
+
+mods.thaumcraft.Research.addResearch("MANARESOURCE", "BOTANIA", "praecantatio 10, permutatio 10, herba 10", 10, 0, 0, <Botania:manaResource>);
+game.setLocalization("en_US", "tc.research_name.MANARESOURCE", "Mana Resources");
+game.setLocalization("en_US", "tc.research_text.MANARESOURCE", "[FoT] Materials for a new world");
+mods.thaumcraft.Research.setSecondary("MANARESOURCE", true);
+mods.thaumcraft.Research.setRound("MANARESOURCE", true);
+mods.thaumcraft.Research.addPrereq("MANARESOURCE", "SHITPOOL", false);
+mods.thaumcraft.Research.addPrereq("MANARESOURCE", "MANASPREADER", false);
