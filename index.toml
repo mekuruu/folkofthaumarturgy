@@ -95,6 +95,11 @@ hash = "515d28b55001625284f434c4d704efce3288ca3baa5e386615461c7c8bc40088"
 metafile = true
 
 [[files]]
+file = "mods/essentia-pipes.pw.toml"
+hash = "1ba4b9de6afd9b70e76adf073dc07b58b6f8ce7d13d37dab6bb1af32f0784d98"
+metafile = true
+
+[[files]]
 file = "mods/expandedredstone.pw.toml"
 hash = "59326406e5e8e68735ac7999048e07911c0db6d47829d4c45c21c3a3fbe8fb7b"
 metafile = true
