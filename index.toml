@@ -258,10 +258,6 @@ file = "scripts/bosniaTweaks.zs"
 hash = "72be23182d3963750045d83f29133ead2d2f38206ed3d838339213de64c3a867"
 
 [[files]]
-file = "scripts/elementalTools.zs"
-hash = "ef6759cfef7f5d6e2f81e3e799fb43a19a0d5c8969a03a33568857f97ad031e9"
-
-[[files]]
 file = "scripts/ham.zs"
 hash = "7343d0a47cddf8cf5c5282d5bbbf3e409a2c7448cca67a93957d6b75afa2fc00"
 
@@ -275,4 +271,4 @@ hash = "44855cdcaf68da24f84f6bd993f8f9d8ec25d07c27bce0532d83b09092bcd46f"
 
 [[files]]
 file = "scripts/thaumTweaks.zs"
-hash = "ecf00636988266a225571a4f07dac556dfc56434cca92c24e1472a9fa7103694"
+hash = "c5a04c3bc7d2fb3f8cf2d4c6dda33a717d5d7985e1ad79f4de308e5c6fc45db7"
