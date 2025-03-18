@@ -1,2 +1,5 @@
 /local
 README.md
+.*
+*.mrpack
+*.zip
