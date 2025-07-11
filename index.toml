@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/tc4tweaks.pw.toml"
-hash = "8aa5715b8f3e1130e7e9b4b14a933260430908b1cb48ccb5966fcf2f2f2c9437"
+hash = "b65ad6e682326c0f1a2d13600912c26fc7d5619417e1413bf6a0671c4071b86b"
 metafile = true
 
 [[files]]
