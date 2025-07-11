@@ -50,12 +50,12 @@ for i, petal in BPetals {
 // add crucible petal recipes
 for i, petal in BPetals {
 	var flower = BFlowers[i];
-	mods.thaumcraft.Crucible.addRecipe("PETALPROC", petal * 3, flower, "perditio 1");	
+	mods.thaumcraft.Crucible.addRecipe("THAUMIUM", petal * 3, flower, "perditio 1");	
 }
 
 for i, petal in BPetals {
 	var flower = BTallFlowers[i];
-	mods.thaumcraft.Crucible.addRecipe("PETALPROC", petal * 6, flower, "perditio 2");	
+	mods.thaumcraft.Crucible.addRecipe("THAUMIUM", petal * 6, flower, "perditio 2");	
 }
 
 // add aspects to petals
@@ -80,7 +80,7 @@ mods.thaumcraft.Aspects.set(<Botania:petal:15>, "praecantatio 2"); // kuro
 // petal apothecary
 recipes.remove(<Botania:altar:*>);
 mods.thaumcraft.Arcane.addShaped(
-	"PETALPROC", 
+	"THAUMIUM", 
 	<Botania:altar>, 
 	"aer 10, terra 10, ignis 10, aqua 10, ordo 10, perditio 10", 
 	[
@@ -93,7 +93,7 @@ mods.thaumcraft.Arcane.addShaped(
 // mana spreader
 recipes.remove(<Botania:spreader>);
 mods.thaumcraft.Arcane.addShaped(
-	"MANASPREADER", 
+	"THAUMIUM", 
 	<Botania:spreader>, 
 	"aer 10, aqua 10, ordo 10, terra", 
 	[
@@ -106,7 +106,7 @@ mods.thaumcraft.Arcane.addShaped(
 // diluted mana pool
 recipes.remove(<Botania:pool:2>);
 mods.thaumcraft.Arcane.addShaped(
-	"SHITPOOL", 
+	"THAUMIUM", 
 	<Botania:pool:2>, 
 	"aer 20, aqua 20, terra 20, ignis 20, ordo 20, perditio 20", 
 	[
@@ -123,7 +123,7 @@ mods.botania.ManaInfusion.addInfusion(<Botania:pool>, <Botania:pool:2>, 20000);
 // runic altar
 recipes.remove(<Botania:runeAltar>);
 mods.thaumcraft.Infusion.addRecipe(
-	"LEXIC", 
+	"THAUMIUM", 
 	<Botania:livingrock> , 
 	[
 		<Botania:manaResource:1>, 
@@ -141,7 +141,7 @@ mods.thaumcraft.Infusion.addRecipe(
 // alchemy catalyst
 recipes.remove(<Botania:alchemyCatalyst>);
 mods.thaumcraft.Infusion.addRecipe(
-	"LEXIC",
+	"THAUMIUM",
 	<Botania:rune:8>,
 	[
 		<Botania:livingrock>,
