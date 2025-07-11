@@ -255,7 +255,7 @@ hash = "f2e6d22d093068d1b5f03c5cf15919884d96c41768df21cf49f51b8ba12dde9f"
 
 [[files]]
 file = "scripts/bosniaTweaks.zs"
-hash = "72be23182d3963750045d83f29133ead2d2f38206ed3d838339213de64c3a867"
+hash = "3f3160cce5b0647d83f43f957670df31e28fca387141f2dfd95c3812afefcc64"
 
 [[files]]
 file = "scripts/ham.zs"
