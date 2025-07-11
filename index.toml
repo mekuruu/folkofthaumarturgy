@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/salis-arcana.pw.toml"
-hash = "01e7b972450e611b691023a93c3aaba9bfa77302002de17f15df703bd4dd3392"
+hash = "14209d03777b048feeea03547626ea2a63a3b9db633d8bcdd79aacb0443e533a"
 metafile = true
 
 [[files]]
@@ -202,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/thaumicbases.pw.toml"
 hash = "65639c45a94b1ca5725db6c66cd7860c964f2eed0dfa91bc426e02ddb70b1f1d"
-metafile = true
-
-[[files]]
-file = "mods/thaumicinventoryscanning.pw.toml"
-hash = "001bc02a9780bc72b0e6ae1361f56108dd54585f2014968e13ccd3057dc5a32b"
 metafile = true
 
 [[files]]

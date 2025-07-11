@@ -1,13 +1,13 @@
 name = "Salis Arcana"
-filename = "salisarcana-v1.1.1.jar"
+filename = "salisarcana-v2.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c0262d8d943aede81ab96ebe1c1f78632aec5311"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/y1bqIjK6/versions/Znn2tqhD/salisarcana-v2.1.0.jar"
+hash-format = "sha512"
+hash = "dfc58912e9434c4afb3d14a0bddbcbfe67019f305fa7d887d3c922cfe6771388d3ccbe96a9a710ee78fcef8287285e009e1f2cc6350dd1592a46c31c37863bd7"
 
 [update]
-[update.curseforge]
-file-id = 6085682
-project-id = 1162488
+[update.modrinth]
+mod-id = "y1bqIjK6"
+version = "Znn2tqhD"
