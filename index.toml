@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/salis-arcana.pw.toml"
-hash = "01e7b972450e611b691023a93c3aaba9bfa77302002de17f15df703bd4dd3392"
+hash = "14209d03777b048feeea03547626ea2a63a3b9db633d8bcdd79aacb0443e533a"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/tc4tweaks.pw.toml"
-hash = "8aa5715b8f3e1130e7e9b4b14a933260430908b1cb48ccb5966fcf2f2f2c9437"
+hash = "b65ad6e682326c0f1a2d13600912c26fc7d5619417e1413bf6a0671c4071b86b"
 metafile = true
 
 [[files]]
@@ -202,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/thaumicbases.pw.toml"
 hash = "65639c45a94b1ca5725db6c66cd7860c964f2eed0dfa91bc426e02ddb70b1f1d"
-metafile = true
-
-[[files]]
-file = "mods/thaumicinventoryscanning.pw.toml"
-hash = "001bc02a9780bc72b0e6ae1361f56108dd54585f2014968e13ccd3057dc5a32b"
 metafile = true
 
 [[files]]
@@ -258,7 +253,7 @@ file = "scripts/bosniaTweaks.zs"
 hash = "0cff39ae70f05f015d3051a3ab1b0e286c434121441ed72ddf723ae3ff6adcda"
 
 [[files]]
-file = "scripts/ham.zs"
+file = "scripts/hammerTweaks.zs"
 hash = "7343d0a47cddf8cf5c5282d5bbbf3e409a2c7448cca67a93957d6b75afa2fc00"
 
 [[files]]
@@ -267,7 +262,7 @@ hash = "c1b95394e3d620be59069080f4fb62da3342f882cd02fc930ea15f1a7b9137c9"
 
 [[files]]
 file = "scripts/runicAltar.zs"
-hash = "44855cdcaf68da24f84f6bd993f8f9d8ec25d07c27bce0532d83b09092bcd46f"
+hash = "f4cd96afc438d87d0012cd96b1619bb1e4c306677e3f067d019edae1fbde2ef9"
 
 [[files]]
 file = "scripts/thaumTweaks.zs"
