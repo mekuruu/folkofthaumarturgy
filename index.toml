@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/NEI/hiddenitems.cfg"
-hash = "ce9b17c8c004545596bfe2f275108d432dee019e9ebf725c5679520cd6aa5660"
+hash = "f4e93afa0fa9d31902167fe4c6f24f624bfa25f0076ced7c00cb223994f9e69e"
 
 [[files]]
 file = "config/ThaumicTinkerer.cfg"
@@ -74,11 +74,6 @@ hash = "532832dfebefa96635d1567dbfa473795f63dd86af44e770f3a2f34d8c858193"
 metafile = true
 
 [[files]]
-file = "mods/contenttweaker.pw.toml"
-hash = "3ce9bcc66e1bc52343a0652ce074495f4701b034310a84b510def78d1e1804c4"
-metafile = true
-
-[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "92f97f8e154f1b85fd41823813e74ba8806babbce79679445355b75547f610e2"
 metafile = true
@@ -116,11 +111,6 @@ metafile = true
 [[files]]
 file = "mods/falsepatternlib.pw.toml"
 hash = "0989c1c2ed2e410eaf06bbae79d57885a99f84fcc1c173b1adeab62cdd025fc5"
-metafile = true
-
-[[files]]
-file = "mods/fluxed-core.pw.toml"
-hash = "529ad7219381a4fef9f3e07266edaa4d35d7c1fd2cf58ecd31626afc4a7db35b"
 metafile = true
 
 [[files]]
