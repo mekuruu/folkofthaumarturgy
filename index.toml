@@ -159,6 +159,11 @@ hash = "2efe15f652487360e8673eb80d8e565218c1bddbea5f4a22ae41a2fb8da7c675"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
+metafile = true
+
+[[files]]
 file = "mods/notenoughitems.pw.toml"
 hash = "4d9ed7b6dff75e67a27f0ea8ef1da48be63288aba8adb50249c1408dc570e930"
 metafile = true
