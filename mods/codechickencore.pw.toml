@@ -1,15 +1,15 @@
 name = "CodeChickenCore"
-filename = "CodeChickenCore-1.4.1.jar"
+filename = "CodeChickenCore-1.4.4-pre.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.1/CodeChickenCore-1.4.1.jar"
+url = "https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.4.4-pre/CodeChickenCore-1.4.4-pre.jar"
 hash-format = "sha256"
-hash = "eabe02ce44340cec3253d16dd12ae56de8016cc9802a7eb26a894dc006bafaee"
+hash = "9f30d7aee8a0df5d81cb3761c465ba22080c4c866c913b08ed25a5a475fec379"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/CodeChickenCore"
-tag = "1.4.1"
+tag = "1.4.4-pre"
