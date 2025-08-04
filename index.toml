@@ -15,12 +15,12 @@ metafile = true
 
 [[files]]
 file = "mods/angelica.pw.toml"
-hash = "1f35fd114555f082bc70e2bbe8da719a43e961bc9451d1309bfb093d01cb59ec"
+hash = "096d32cfa02ad9adedc35f4b59564d1be337d02baea2c6ce84acb0b8a9693c88"
 metafile = true
 
 [[files]]
 file = "mods/archaicfix.pw.toml"
-hash = "92e0ab3a1611367df378c257cb1e8867b0bf571f64f7e1ddc2e249d608753f39"
+hash = "52167fe78f9cc08a6bc6fb5005db660b02ffb89e16bc8331510416fe23416050"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "210b537973d3ec469f624c2ceba7b01b88bf38b17225123a8f00910eefe67ecc"
+hash = "22f893ba07e0a0e716aa499ff3e20c4c9c3e6dcaf647e46abd7eb980728ffd59"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/unimixins.pw.toml"
-hash = "141c1b00de4d99451504165947652205014642e1d11a1c249706feb0f0d356a6"
+hash = "f89a13b510492cc5ecaafa59e4f69db7e107160eb80e33a226f0da14d3a1cdcf"
 metafile = true
 
 [[files]]
