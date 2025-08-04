@@ -34,6 +34,11 @@ hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
 metafile = true
 
 [[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "ab7684cbe71edd1b7e483316974e23535d14c2f9a01c0c7a1238d3ac45cfafcd"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "671de8e68e89cefde9a64d2be0bccd68623236101579cc5d1be0bde9b2b7755f"
 metafile = true
@@ -131,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/gtnhlib.pw.toml"
 hash = "210b537973d3ec469f624c2ceba7b01b88bf38b17225123a8f00910eefe67ecc"
+metafile = true
+
+[[files]]
+file = "mods/guide-api.pw.toml"
+hash = "c9079e9e6bddea635fad892ec891e2f08ce56d65e797a82e0432a096a1a885a7"
 metafile = true
 
 [[files]]
