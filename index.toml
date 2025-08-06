@@ -9,6 +9,10 @@ file = "config/ThaumicTinkerer.cfg"
 hash = "86aad4c3c65333b7c41cd9d7b0853642cb63760e39578fb794bf9c810eedd07b"
 
 [[files]]
+file = "config/hodgepodge.cfg"
+hash = "bc2aa8755e07bd6f0e5852a8bc13ec8517ffd502912fdd7a7b17cae2989fb579"
+
+[[files]]
 file = "mods/additional-pipes-for-buildcraft.pw.toml"
 hash = "a66037092e6b47b166a2d9ba19ffe049e240131ccec980f9d64e33e1d5037dac"
 metafile = true
@@ -146,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/hammerz.pw.toml"
 hash = "6c340be9f025209e13e6b07255ec38dc6fc4ff8b7e8e203e8019ff09e472a186"
+metafile = true
+
+[[files]]
+file = "mods/hodgepodge.pw.toml"
+hash = "f4ddc9cdd2ecde92ce3cde040b013a256a5debfec2c28ab29ce9e7779d9709db"
 metafile = true
 
 [[files]]
