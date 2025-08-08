@@ -287,6 +287,10 @@ file = "scripts/basesDies.zs"
 hash = "f2e6d22d093068d1b5f03c5cf15919884d96c41768df21cf49f51b8ba12dde9f"
 
 [[files]]
+file = "scripts/bmTweaks.zs"
+hash = "4087ee9b174515771a1cb322bec65aa6bd98bd2595044db50895a369db9f25f8"
+
+[[files]]
 file = "scripts/bosniaTweaks.zs"
 hash = "0cff39ae70f05f015d3051a3ab1b0e286c434121441ed72ddf723ae3ff6adcda"
 
