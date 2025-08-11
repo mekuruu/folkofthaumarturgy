@@ -48,6 +48,11 @@ hash = "671de8e68e89cefde9a64d2be0bccd68623236101579cc5d1be0bde9b2b7755f"
 metafile = true
 
 [[files]]
+file = "mods/bugtorch.pw.toml"
+hash = "03f50daaea957bb3e75a7cb6e520232522a33ee33c92c97066d4412c50fdb5de"
+metafile = true
+
+[[files]]
 file = "mods/buildcraft.pw.toml"
 hash = "855e90971f90ad5c09a0728c056806183f75bd51f57f18a510580207f89485bc"
 metafile = true
