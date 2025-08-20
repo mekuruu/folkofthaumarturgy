@@ -3,11 +3,11 @@ filename = "+unimixins-all-1.7.10-0.1.22.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "047bb736c27fb9fe0f6ab6fd323140bab7748b71"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ghjoiQAl/versions/qszQWTGR/%2Bunimixins-all-1.7.10-0.1.22.jar"
+hash-format = "sha512"
+hash = "155018aa518a659808af5e3ea42e7a54e06c6f2d0487518c9c214f9a3dc16cc74ed3f8e9536b74447c00768fc6ac8f6cb8945ea34fbb7324bbce7f165e59bee2"
 
 [update]
-[update.curseforge]
-file-id = 6761003
-project-id = 826970
+[update.modrinth]
+mod-id = "ghjoiQAl"
+version = "qszQWTGR"

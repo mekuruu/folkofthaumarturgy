@@ -3,11 +3,11 @@ filename = "XaerosWorldMap_1.14.1.33_Forge_1.7.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "19d1262bf9d20f449d0e9c16e9d3f4d9c373b182"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/p1yJWyyU/XaerosWorldMap_1.14.1.33_Forge_1.7.10.jar"
+hash-format = "sha512"
+hash = "f3231df289533a4af7e76aa8f09891ebcbf67aa980894c49a09a761a2ae0062624c7d8dc0b9059f0d7909c960f50adf42ad60bb6e70b571809eba7ab74915514"
 
 [update]
-[update.curseforge]
-file-id = 5987124
-project-id = 317780
+[update.modrinth]
+mod-id = "NcUtCpym"
+version = "p1yJWyyU"

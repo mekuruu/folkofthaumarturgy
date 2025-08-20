@@ -1,13 +1,13 @@
 name = "Angelica"
-filename = "angelica-1.0.0-beta53.jar"
-side = "both"
+filename = "angelica-1.0.0-beta54.jar"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "c82667f10af199ef8dfd6e3824d59f7279ca53e1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/XN5jnYB4/versions/QYFf5zUZ/angelica-1.0.0-beta54.jar"
+hash-format = "sha512"
+hash = "efacc726827dfa5a5885e30343224f2875f33899f4a75d709a75c0859cde9575bf581c42b7f971de7732352df487e3269edd51005c9da5db938751734c607b59"
 
 [update]
-[update.curseforge]
-file-id = 6794325
-project-id = 988067
+[update.modrinth]
+mod-id = "XN5jnYB4"
+version = "QYFf5zUZ"

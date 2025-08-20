@@ -19,7 +19,7 @@ metafile = true
 
 [[files]]
 file = "mods/angelica.pw.toml"
-hash = "096d32cfa02ad9adedc35f4b59564d1be337d02baea2c6ce84acb0b8a9693c88"
+hash = "9f4c99a7e3fcc515fd37afeb737209d89bc6aaadcf834ca3002e483a8bdd80b3"
 metafile = true
 
 [[files]]
@@ -78,8 +78,8 @@ hash = "a72f6b17796436aed828d7b0d319ce37434e561b4727a7f96720a56fb77d2319"
 metafile = true
 
 [[files]]
-file = "mods/codechickencore.pw.toml"
-hash = "feef816d21da6913bfa5abd895d180ea2e96cebec4b4a72aeaaad92787baefcc"
+file = "mods/codechickencore-unofficial.pw.toml"
+hash = "e3ac56beb0d6695bec995196aa7ed1d9b905961ab82e30cba11a63e6d7f8f02d"
 metafile = true
 
 [[files]]
@@ -114,17 +114,12 @@ metafile = true
 
 [[files]]
 file = "mods/essentia-pipes.pw.toml"
-hash = "1ba4b9de6afd9b70e76adf073dc07b58b6f8ce7d13d37dab6bb1af32f0784d98"
+hash = "52b31acb8acc8667f2093c56e2be4d56089b277818ab605e90b5fff2873827b5"
 metafile = true
 
 [[files]]
 file = "mods/expandedredstone.pw.toml"
 hash = "59326406e5e8e68735ac7999048e07911c0db6d47829d4c45c21c3a3fbe8fb7b"
-metafile = true
-
-[[files]]
-file = "mods/falsepatternlib.pw.toml"
-hash = "db267185d00242afe875603f4574a5ed5738b76e98e3f6b345ff2adfda709949"
 metafile = true
 
 [[files]]
@@ -138,13 +133,18 @@ hash = "495b9b1e10faea19ccfb457e791dc958445b76bc6b36cb13f4e8b55b38675c6f"
 metafile = true
 
 [[files]]
+file = "mods/fplib.pw.toml"
+hash = "e567dacb4b7f18199c7e2928f7a3645a650860ae2b8971d84fa0c8e3c170fa72"
+metafile = true
+
+[[files]]
 file = "mods/gadomancy.pw.toml"
 hash = "b09791d3fffb0b85775305502cf78b57e97f5f251698d58894b96480034925f0"
 metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "22f893ba07e0a0e716aa499ff3e20c4c9c3e6dcaf647e46abd7eb980728ffd59"
+hash = "bc389c3528b519d919e4e15ffeb458fff9b6bfb7398004e272e8b4da1d48dd19"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge.pw.toml"
-hash = "f4ddc9cdd2ecde92ce3cde040b013a256a5debfec2c28ab29ce9e7779d9709db"
+hash = "1ba09bc574e1598b07cd2e9a5f1f93c7a0b0a686f8f94a26e38659007aa5cc0d"
 metafile = true
 
 [[files]]
@@ -178,6 +178,11 @@ hash = "14f8edd72949b433ac9b702f29bf09375efec9195a7395e34c96126013a6d55c"
 metafile = true
 
 [[files]]
+file = "mods/lglegacy.pw.toml"
+hash = "8bc19cc9611e7a26818c332a8e3532c31dc530ea731df0ec32fcf729ea65686c"
+metafile = true
+
+[[files]]
 file = "mods/modtweaker.pw.toml"
 hash = "2efe15f652487360e8673eb80d8e565218c1bddbea5f4a22ae41a2fb8da7c675"
 metafile = true
@@ -188,8 +193,8 @@ hash = "249a426c0e7b86b0fb22be99c328e2db9ece689561018257b3fa6f03927defca"
 metafile = true
 
 [[files]]
-file = "mods/notenoughitems.pw.toml"
-hash = "33a267650e84d6aae830faa98054036d706f5a6243aa83354cd05a8f1895d0d0"
+file = "mods/notenoughitems-unofficial.pw.toml"
+hash = "a8acc09f59c69b581971367541bf38d6397259d786250a8301015e21cfab2893"
 metafile = true
 
 [[files]]
@@ -249,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/unimixins.pw.toml"
-hash = "f89a13b510492cc5ecaafa59e4f69db7e107160eb80e33a226f0da14d3a1cdcf"
+hash = "044b3d52eaeea8bb7d3745258f9be073457cd2f55bf70a26667efc36d40e5279"
 metafile = true
 
 [[files]]
@@ -274,12 +279,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9e245a84a817c077c5450708327b3e9959cf810004fd9a2735cd575678cd96ab"
+hash = "f42a901f08f6d39ff2cf1743f3412d0d4495393c16e9c367e55d48ac4fe4b215"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "565b2f68688e8675875ba2ad4c989fa08527c2d074be359baeb641632763d41d"
+hash = "c998345a87b4d86c7196438c926970cde45d1a93dd680cd5d7e0a73263375d13"
 metafile = true
 
 [[files]]
