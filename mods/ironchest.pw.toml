@@ -1,15 +1,15 @@
 name = "ironchest"
-filename = "IronChest-6.1.6.jar"
+filename = "IronChest-6.1.7.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/ironchest/releases/download/6.1.6/IronChest-6.1.6.jar"
+url = "https://github.com/GTNewHorizons/ironchest/releases/download/6.1.7/IronChest-6.1.7.jar"
 hash-format = "sha256"
-hash = "f02636fc5811d33d746341bdb9890278fc60205b10dd9cb0d7cd378f3f8e1859"
+hash = "d43e3ac9de055e3e9b56674d7e31e01ec5f015e3f003b360cf207701decf8f0d"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/ironchest"
-tag = "6.1.6"
+tag = "6.1.7"

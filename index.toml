@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/buildcraft.pw.toml"
-hash = "855e90971f90ad5c09a0728c056806183f75bd51f57f18a510580207f89485bc"
+hash = "8f5707c98e4ff3ace35e1f4733ff9df7bbca4f47b5fc7fcde40ebb832677fd93"
 metafile = true
 
 [[files]]
@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisel.pw.toml"
-hash = "a9b5490503114e7f279a4c48161111c6ab3d33fd29f756ae8c261696b33f71d2"
+hash = "45c50b7c9593c8e802c9488256731ad5c5b84b4a9e647c7b01ba96f8c151672d"
 metafile = true
 
 [[files]]
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "e3ac56beb0d6695bec995196aa7ed1d9b905961ab82e30cba11a63e6d7f8f02d"
+hash = "1f711dffa64921759ad09f4e6d4e12173353ab5c60b214d9956a2ec67ff332d2"
 metafile = true
 
 [[files]]
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/essentia-pipes.pw.toml"
-hash = "52b31acb8acc8667f2093c56e2be4d56089b277818ab605e90b5fff2873827b5"
+hash = "cda2a1453c22c45b9192b66495a10334e12835a67f706c2381e8eb968203eadc"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/forbiddenmagic.pw.toml"
-hash = "c576606b2a5371f307f1beaf7368b9b953ce58bda3bf4d3a610b312f4e5bfed4"
+hash = "02c26c6879ac247ef011b5670f45e6931da000e73a7b2f5a24958c0c38ee2221"
 metafile = true
 
 [[files]]
@@ -119,17 +119,17 @@ metafile = true
 
 [[files]]
 file = "mods/fplib.pw.toml"
-hash = "e567dacb4b7f18199c7e2928f7a3645a650860ae2b8971d84fa0c8e3c170fa72"
+hash = "ede1cd2b914e56fcb6c52a7800972e5dd6d72d8b8f1547a36cdc6dc91a0e6238"
 metafile = true
 
 [[files]]
 file = "mods/gadomancy.pw.toml"
-hash = "b09791d3fffb0b85775305502cf78b57e97f5f251698d58894b96480034925f0"
+hash = "9e82af5eea72c5911110a31b9a10991b925f31e0fe6985ad77204c434997d5a1"
 metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "bc389c3528b519d919e4e15ffeb458fff9b6bfb7398004e272e8b4da1d48dd19"
+hash = "ef5bdb3ec25a740564cfb0236a73582541a374a2869c6e2033854ba9fbb580ec"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge.pw.toml"
-hash = "1ba09bc574e1598b07cd2e9a5f1f93c7a0b0a686f8f94a26e38659007aa5cc0d"
+hash = "cf1ce8ba1bfad49788fb93e29397d342f860129dc4ac709feeda280265eaec57"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/ironchest.pw.toml"
-hash = "0b11f92fa6eb89fca6519a28fd30bb5dd4bcec31bc7b7b9e8b3b43c5a3e25722"
+hash = "e69f1a2d12593b079511d3fd8978198538937bfcbb9d1aeb8217e8dfc811bbcc"
 metafile = true
 
 [[files]]
@@ -179,27 +179,27 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "a8acc09f59c69b581971367541bf38d6397259d786250a8301015e21cfab2893"
+hash = "bc974ae30780f0feedade381097c2fc25b1274a6177f09765b96a634fff4c6b2"
 metafile = true
 
 [[files]]
 file = "mods/salis-arcana.pw.toml"
-hash = "fcb8fbcecea8c26a9a6e794e519e76d19580ca5ba4fcad7af7846f005c4f95b9"
+hash = "ef27a575b0ba7b3b7228da2f892ff78e3b6527f804b20b833a2a566a90c14547"
 metafile = true
 
 [[files]]
 file = "mods/serverutilities.pw.toml"
-hash = "8e1d2993f643783ba4a879a78892beabb42912ad64999e0357c0982bf8d29caa"
+hash = "f73dc236937c37c8d18ddf1df1e6ad2a6e02920370792885c33353b33edb1b96"
 metafile = true
 
 [[files]]
 file = "mods/tc4tweaks.pw.toml"
-hash = "b65ad6e682326c0f1a2d13600912c26fc7d5619417e1413bf6a0671c4071b86b"
+hash = "09478b0760fb9e884e78acac894ec55025cabcc8b8b1877c3ddb66556a985070"
 metafile = true
 
 [[files]]
 file = "mods/tcneiadditions.pw.toml"
-hash = "773571075d91a28284fceebd998dbc1f7149c268960a214df0e38227726beff3"
+hash = "8d64912c31cbc78b19e9f563337f3a1a86078d914bf9531d2b7609b9318b312e"
 metafile = true
 
 [[files]]
@@ -219,17 +219,17 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-exploration.pw.toml"
-hash = "d3c3cce4eb20dd4608afff4de415aa4187d253766b3f1e4b6f3e6762cc9ab3d7"
+hash = "857344a97e1bb324ab44ab68de0961078a48c03a622f4f02ccba42624edb339d"
 metafile = true
 
 [[files]]
 file = "mods/thaumicbases.pw.toml"
-hash = "4d982bf460ef87010167942d9c1f0c0bfc22ccfe554414e38759003848f8bfc8"
+hash = "3f9ba6d2735d684cb9388d9b9a1bfdea7de1d887391e2e1650963a5fe041a148"
 metafile = true
 
 [[files]]
 file = "mods/thaumictinkerer.pw.toml"
-hash = "1676a2157246e7a9f87bd380404f43e82db98147b2980bb6090e9288fa61845f"
+hash = "987911b64afc6e4a2bffd03e08932cfd96592843f7f85b86f1ee4e950148a1ad"
 metafile = true
 
 [[files]]
