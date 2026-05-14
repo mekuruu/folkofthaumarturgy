@@ -1,0 +1,13 @@
+name = "Lumi Lighting Engine Optimizer"
+filename = "lumi-mc1.7.10-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RIP6DWIB/versions/5YBG7Jna/lumi-mc1.7.10-1.2.1.jar"
+hash-format = "sha512"
+hash = "5686d2ae9967ad5b0f0ca84655d8fe0fa9c8365b07b932d70b291b75da9a6b8f4acffac27cf66691a4424b31163ee2bd58a168f3bdd16943ca4cb0eba1d5d688"
+
+[update]
+[update.modrinth]
+mod-id = "RIP6DWIB"
+version = "5YBG7Jna"

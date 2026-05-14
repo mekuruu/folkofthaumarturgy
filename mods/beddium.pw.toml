@@ -1,0 +1,13 @@
+name = "beddium"
+filename = "beddium-mc1.7.10-1.2.3-j21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kPtHpb7z/versions/et25DEEn/beddium-mc1.7.10-1.2.3-j21.jar"
+hash-format = "sha512"
+hash = "6fe8dcb40f1d8bbe3d25f415fed5c853836b556f018dfb5353e129169816345362dc43131cdff99d738c4b1f68d66bfe5f7515b330fb02af42e5bf625bf5ae0f"
+
+[update]
+[update.modrinth]
+mod-id = "kPtHpb7z"
+version = "et25DEEn"

@@ -1,0 +1,13 @@
+name = "ChunkAPI"
+filename = "chunkapi-mc1.7.10-0.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y0vBUOla/versions/366uwoBI/chunkapi-mc1.7.10-0.8.2.jar"
+hash-format = "sha512"
+hash = "54343b2fc1ff02e967a48ef67f7e8c47916b3dd7cc5713c6ff73e92d97ca1bad8b378aaae288c74d593777ce2f72bcf5259fb060c5d69d9bfc98907f4bf1dba1"
+
+[update]
+[update.modrinth]
+mod-id = "y0vBUOla"
+version = "366uwoBI"

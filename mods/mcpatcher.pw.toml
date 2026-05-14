@@ -1,0 +1,13 @@
+name = "Right Proper MCPatcher"
+filename = "mcpatcher-mc1.7.10-0.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kvBHaMRv/versions/FznXzcem/mcpatcher-mc1.7.10-0.3.0.jar"
+hash-format = "sha512"
+hash = "a7f05c95b9494aff0a3a63a8b775413ab9f4c5e3e79d925468f2f0338a6534f0544768700a40080d93d292952946c621e182edf8c103913165e3436a3ba67bbc"
+
+[update]
+[update.modrinth]
+mod-id = "kvBHaMRv"
+version = "FznXzcem"

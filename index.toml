@@ -18,6 +18,11 @@ hash = "a66037092e6b47b166a2d9ba19ffe049e240131ccec980f9d64e33e1d5037dac"
 metafile = true
 
 [[files]]
+file = "mods/archaicfix.pw.toml"
+hash = "19d12d89c9df19da9a45988b247cd0ba8a7ade8f4d098feabb3ce8b0a119a3d3"
+metafile = true
+
+[[files]]
 file = "mods/automagy.pw.toml"
 hash = "d2ef0245eac12bb25282309c4f9f594a8898d0535cc9d17315a19de5de23d197"
 metafile = true
@@ -28,6 +33,11 @@ hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
 metafile = true
 
 [[files]]
+file = "mods/beddium.pw.toml"
+hash = "a385b42593aae9003f43dd05ff9d4490251be7392166fa72940aa164d5668e3c"
+metafile = true
+
+[[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "ab7684cbe71edd1b7e483316974e23535d14c2f9a01c0c7a1238d3ac45cfafcd"
 metafile = true
@@ -35,6 +45,11 @@ metafile = true
 [[files]]
 file = "mods/botania.pw.toml"
 hash = "671de8e68e89cefde9a64d2be0bccd68623236101579cc5d1be0bde9b2b7755f"
+metafile = true
+
+[[files]]
+file = "mods/bugtorch.pw.toml"
+hash = "03f50daaea957bb3e75a7cb6e520232522a33ee33c92c97066d4412c50fdb5de"
 metafile = true
 
 [[files]]
@@ -60,6 +75,11 @@ metafile = true
 [[files]]
 file = "mods/chiseltones.pw.toml"
 hash = "a72f6b17796436aed828d7b0d319ce37434e561b4727a7f96720a56fb77d2319"
+metafile = true
+
+[[files]]
+file = "mods/chunkapi.pw.toml"
+hash = "d47bfc55d53b596f24a20f139e8361d8bc8672a0aad6adef9afc86de0f3da9e5"
 metafile = true
 
 [[files]]
@@ -108,6 +128,11 @@ hash = "59326406e5e8e68735ac7999048e07911c0db6d47829d4c45c21c3a3fbe8fb7b"
 metafile = true
 
 [[files]]
+file = "mods/foamfix.pw.toml"
+hash = "1711d9d97af767be57c2422cc969359dd233c17d5cde60a2ab964ef5fa4ceae4"
+metafile = true
+
+[[files]]
 file = "mods/forbiddenmagic.pw.toml"
 hash = "02c26c6879ac247ef011b5670f45e6931da000e73a7b2f5a24958c0c38ee2221"
 metafile = true
@@ -119,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/fplib.pw.toml"
-hash = "ede1cd2b914e56fcb6c52a7800972e5dd6d72d8b8f1547a36cdc6dc91a0e6238"
+hash = "d4666d849ccbad6b16b75afa67307f6664c722f28981a7b6a2d2287564b1e7ef"
 metafile = true
 
 [[files]]
@@ -129,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "ef5bdb3ec25a740564cfb0236a73582541a374a2869c6e2033854ba9fbb580ec"
+hash = "0fd335bd9ca98752c5621848348aeab90078364dbc2bd9f24d4f3bc004767448"
 metafile = true
 
 [[files]]
@@ -144,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge.pw.toml"
-hash = "cf1ce8ba1bfad49788fb93e29397d342f860129dc4ac709feeda280265eaec57"
+hash = "e480e4f5e7f0b6479375102f503082dd29ec545bb9e0b912af2ac85053c894d9"
 metafile = true
 
 [[files]]
@@ -165,6 +190,16 @@ metafile = true
 [[files]]
 file = "mods/lglegacy.pw.toml"
 hash = "8bc19cc9611e7a26818c332a8e3532c31dc530ea731df0ec32fcf729ea65686c"
+metafile = true
+
+[[files]]
+file = "mods/lumi1710.pw.toml"
+hash = "90c8d14dc58512924e8189edf029197b3705c132cc57b9de126eb8275d246e6a"
+metafile = true
+
+[[files]]
+file = "mods/mcpatcher.pw.toml"
+hash = "6032e4ac82b1c3242e0718d6aaee28102e1562d765b73368cc5766f503466e97"
 metafile = true
 
 [[files]]
@@ -239,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/unimixins.pw.toml"
-hash = "044b3d52eaeea8bb7d3745258f9be073457cd2f55bf70a26667efc36d40e5279"
+hash = "0b86ce3b6b5ac9590b79080b6caf931ab712026b871eb2f0f146af955a30dfa8"
 metafile = true
 
 [[files]]

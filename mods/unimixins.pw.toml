@@ -1,13 +1,13 @@
 name = "UniMixins"
-filename = "+unimixins-all-1.7.10-0.1.22.jar"
+filename = "+unimixins-all-1.7.10-0.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ghjoiQAl/versions/qszQWTGR/%2Bunimixins-all-1.7.10-0.1.22.jar"
+url = "https://cdn.modrinth.com/data/ghjoiQAl/versions/BpPBBjZU/%2Bunimixins-all-1.7.10-0.3.0.jar"
 hash-format = "sha512"
-hash = "155018aa518a659808af5e3ea42e7a54e06c6f2d0487518c9c214f9a3dc16cc74ed3f8e9536b74447c00768fc6ac8f6cb8945ea34fbb7324bbce7f165e59bee2"
+hash = "752f89025e72a32d33e22c57e90e1a720bb04f53274dd652dda18db805ff1d1657832518c0bf137cbed26d448ae019a5f424e0fe991d3c34157f38233ae224cd"
 
 [update]
 [update.modrinth]
 mod-id = "ghjoiQAl"
-version = "qszQWTGR"
+version = "BpPBBjZU"
