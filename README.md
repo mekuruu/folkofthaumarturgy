@@ -1,3 +1,3 @@
-# Folk of Thaumaturgy
+# UnnamedArchaicPack
 
-Folk of Thaumaturgy is a pack for Minecraft 1.7.10 centered around Thaumcraft, with other mods integrated into it. Currently in a very early stage of development.
+Assortment of various mods, picked with no further criteria than "it works". Contains heavily opinionated balance changes for the creator's own fun. 
