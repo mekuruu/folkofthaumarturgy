@@ -1,15 +1,15 @@
 name = "ForbiddenMagic"
-filename = "Forbidden.Magic-0.9.7-GTNH.jar"
+filename = "Forbidden.Magic-0.9.15-GTNH.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/ForbiddenMagic/releases/download/0.9.7-GTNH/Forbidden.Magic-0.9.7-GTNH.jar"
+url = "https://github.com/GTNewHorizons/ForbiddenMagic/releases/download/0.9.15-GTNH/Forbidden.Magic-0.9.15-GTNH.jar"
 hash-format = "sha256"
-hash = "ac3e28b421e5d623350c430e00f506bad0949f164d8e40fbd382a77e5152c22c"
+hash = "8041062a61776476c7d814e709a5c24db47571cb1b4f063f4ec5ff9a73405788"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/ForbiddenMagic"
-tag = "0.9.7-GTNH"
+tag = "0.9.15-GTNH"

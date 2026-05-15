@@ -23,6 +23,11 @@ hash = "19d12d89c9df19da9a45988b247cd0ba8a7ade8f4d098feabb3ce8b0a119a3d3"
 metafile = true
 
 [[files]]
+file = "mods/aspectrecipeindex.pw.toml"
+hash = "99ff79f032bed621eae08b81382bc37d284b5764b905e64bb46dae0b248b01aa"
+metafile = true
+
+[[files]]
 file = "mods/automagy.pw.toml"
 hash = "d2ef0245eac12bb25282309c4f9f594a8898d0535cc9d17315a19de5de23d197"
 metafile = true
@@ -34,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/beddium.pw.toml"
-hash = "5cf4589c71c0a0c5814ee44e74268b5093650974b54ae49955af2f19aeb65033"
+hash = "cd16d8276c4da306fca009ec7a7ea642ee18b139976bb677c776d38f3fef8d4b"
 metafile = true
 
 [[files]]
@@ -54,12 +59,12 @@ metafile = true
 
 [[files]]
 file = "mods/buildcraft.pw.toml"
-hash = "8f5707c98e4ff3ace35e1f4733ff9df7bbca4f47b5fc7fcde40ebb832677fd93"
+hash = "908e2d7ed66c4760c2dd2b7a31304c1abc00103d1a7b9f2c54cf4393b063d7bb"
 metafile = true
 
 [[files]]
 file = "mods/buildcraftcompat.pw.toml"
-hash = "164f4fe7c28d489fbd933358aab1d32845288c005e4a81c6bd4e2c27019aeb16"
+hash = "76da5159edb7ded5149291b8d86280013d8e71b4305e45b8a16b71b9d06e805e"
 metafile = true
 
 [[files]]
@@ -69,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisel.pw.toml"
-hash = "45c50b7c9593c8e802c9488256731ad5c5b84b4a9e647c7b01ba96f8c151672d"
+hash = "e0ad9aa5ab8da111aff3f13ec6414e1f36a83a5b555502ab0011bc58a5ad78ae"
 metafile = true
 
 [[files]]
@@ -84,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "1f711dffa64921759ad09f4e6d4e12173353ab5c60b214d9956a2ec67ff332d2"
+hash = "15dbe65585174b35575d2ac33ed642e8a2bb1676550bedb3e29374a1a1c1d8c1"
 metafile = true
 
 [[files]]
@@ -134,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/forbiddenmagic.pw.toml"
-hash = "02c26c6879ac247ef011b5670f45e6931da000e73a7b2f5a24958c0c38ee2221"
+hash = "1810c13a67f3ca81bc2228472d2be9d8dda330d173f904f2d2c113509faac53c"
 metafile = true
 
 [[files]]
@@ -149,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/gadomancy.pw.toml"
-hash = "9e82af5eea72c5911110a31b9a10991b925f31e0fe6985ad77204c434997d5a1"
+hash = "0b8f56c9142044053abbd48bd354a4edc059a05ebac9de77c9ba788e9ab81e15"
 metafile = true
 
 [[files]]
@@ -159,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/gtnhlib.pw.toml"
-hash = "0fd335bd9ca98752c5621848348aeab90078364dbc2bd9f24d4f3bc004767448"
+hash = "97429596533136d8d61272f92f734e2ed2479d4e5cbfae76e9ec2463d87916cc"
 metafile = true
 
 [[files]]
@@ -174,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/hodgepodge.pw.toml"
-hash = "e480e4f5e7f0b6479375102f503082dd29ec545bb9e0b912af2ac85053c894d9"
+hash = "889b2cfd57a498d4ad6bb6dd9acb48fce0dc4d21b4c82a3e669739f9f054fc05"
 metafile = true
 
 [[files]]
@@ -189,12 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/ironchest.pw.toml"
-hash = "e69f1a2d12593b079511d3fd8978198538937bfcbb9d1aeb8217e8dfc811bbcc"
-metafile = true
-
-[[files]]
-file = "mods/laggoggleslegacy.pw.toml"
-hash = "14f8edd72949b433ac9b702f29bf09375efec9195a7395e34c96126013a6d55c"
+hash = "8616e040282cedf1351427664451754f437635ec9ac645cf48c9b2f48063eb70"
 metafile = true
 
 [[files]]
@@ -229,27 +229,27 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "bc974ae30780f0feedade381097c2fc25b1274a6177f09765b96a634fff4c6b2"
+hash = "b229fda123f137d1a6294b8189ca6e8e858eb63edecd23dff9fd8d571ae31763"
 metafile = true
 
 [[files]]
 file = "mods/salis-arcana.pw.toml"
-hash = "ef27a575b0ba7b3b7228da2f892ff78e3b6527f804b20b833a2a566a90c14547"
+hash = "055c8c2000ed52dbca13bd938537a54468c43408fac901b2bc167f5a9c83878a"
 metafile = true
 
 [[files]]
 file = "mods/serverutilities.pw.toml"
-hash = "f73dc236937c37c8d18ddf1df1e6ad2a6e02920370792885c33353b33edb1b96"
+hash = "cc8da8b93a09b118035709a6018d4dfd876dbcb4c68b66685e2b0c797f6ae0cb"
 metafile = true
 
 [[files]]
 file = "mods/tc4tweaks.pw.toml"
-hash = "09478b0760fb9e884e78acac894ec55025cabcc8b8b1877c3ddb66556a985070"
+hash = "34b1972888edca7f7eda956d4c4a0295787732009a8b46e4032d443c05fb5a28"
 metafile = true
 
 [[files]]
 file = "mods/tcneiadditions.pw.toml"
-hash = "8d64912c31cbc78b19e9f563337f3a1a86078d914bf9531d2b7609b9318b312e"
+hash = "3b7aa0b0dba45d4ba0fc1c504600631af2b750d4f81b7c1c2a8548ed20fd5f02"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumcraft-research-tweaks.pw.toml"
-hash = "ba10c8e95222baa79265f1405996c804538059f2e60e0b01d1ca2f01aebbb301"
+hash = "c879717ee51b3c930e3ae1cc95524d1dbf5062e1c544e7fe69ec5c9fa84b7259"
 metafile = true
 
 [[files]]
@@ -269,17 +269,17 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-exploration.pw.toml"
-hash = "857344a97e1bb324ab44ab68de0961078a48c03a622f4f02ccba42624edb339d"
+hash = "b204190ca022b9e67af1d79746b4a43a83ea0aa104016ae82222bebcec9849ce"
 metafile = true
 
 [[files]]
 file = "mods/thaumicbases.pw.toml"
-hash = "3f9ba6d2735d684cb9388d9b9a1bfdea7de1d887391e2e1650963a5fe041a148"
+hash = "18026ca26c6823fd1e411ed20d65d2334f6fccc065dc7b3a8dd589b7fdc10950"
 metafile = true
 
 [[files]]
 file = "mods/thaumictinkerer.pw.toml"
-hash = "987911b64afc6e4a2bffd03e08932cfd96592843f7f85b86f1ee4e950148a1ad"
+hash = "1c9ea0df64f8160eec485be011b2b8f1b0319cf71ca731b4f5eb9f345f444e2b"
 metafile = true
 
 [[files]]

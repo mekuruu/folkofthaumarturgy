@@ -1,15 +1,15 @@
 name = "ThaumicBases"
-filename = "Thaumic-Based-1.9.6.jar"
+filename = "Thaumic-Based-1.9.15.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/ThaumicBases/releases/download/1.9.6/Thaumic-Based-1.9.6.jar"
+url = "https://github.com/GTNewHorizons/ThaumicBases/releases/download/1.9.15/Thaumic-Based-1.9.15.jar"
 hash-format = "sha256"
-hash = "7d73247da7be85639289eac2d62ce86c5e590f7463406b1b2042d4c369d18254"
+hash = "d32534790ac8f03dc4ff2da111be252ef622da97a76cc5468c6e95accee429c7"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/ThaumicBases"
-tag = "1.9.6"
+tag = "1.9.15"

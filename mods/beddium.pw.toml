@@ -1,13 +1,13 @@
 name = "beddium"
-filename = "beddium-mc1.7.10-1.2.4-j25.jar"
+filename = "beddium-mc1.7.10-1.2.4-j8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kPtHpb7z/versions/WZ1XEcN5/beddium-mc1.7.10-1.2.4-j25.jar"
+url = "https://cdn.modrinth.com/data/kPtHpb7z/versions/vqEZg8Dn/beddium-mc1.7.10-1.2.4-j8.jar"
 hash-format = "sha512"
-hash = "76cea96b07bea0d1785f26756f16f607d9f98b787e0f4f11548906460499eccf056ace211f9af9425bf6bed6a720dd7a1de8901c0499e6a839b30f9963e842ce"
+hash = "69d37115b8b02808718f64f708b82226a2d6bd2203137ec7dc2c17fe1a57e59767ea8a1bb1a6329fa1fd6089d97e496597d873b0b7671fde4606ff84f460973d"
 
 [update]
 [update.modrinth]
 mod-id = "kPtHpb7z"
-version = "WZ1XEcN5"
+version = "vqEZg8Dn"

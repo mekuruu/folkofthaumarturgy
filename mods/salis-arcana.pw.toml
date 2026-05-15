@@ -1,13 +1,13 @@
 name = "Salis Arcana"
-filename = "salisarcana-v2.4.0.jar"
+filename = "salisarcana-v2.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/y1bqIjK6/versions/4butaxlB/salisarcana-v2.4.0.jar"
+url = "https://cdn.modrinth.com/data/y1bqIjK6/versions/Paw1qIGf/salisarcana-v2.5.0.jar"
 hash-format = "sha512"
-hash = "47c58639073588dc6ca131640ada4f4efbd1d0c3120f7c3ab70b80a4445942fca1c82f8e2c396452751442dc11f32ab70c6ca2788fc8b8be19a84aa48b40caa2"
+hash = "7cd34b39e5cf5f1d852e94553f607faa033ad06736c7dcc33f6477e5461e237ff9b6799cd76c29c508f101b11e8f6231c6a575fcbfa90df2c1786ef00fd94414"
 
 [update]
 [update.modrinth]
 mod-id = "y1bqIjK6"
-version = "4butaxlB"
+version = "Paw1qIGf"

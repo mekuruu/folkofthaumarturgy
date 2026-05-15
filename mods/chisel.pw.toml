@@ -1,15 +1,15 @@
 name = "Chisel"
-filename = "chisel-2.17.10-GTNH-pre.jar"
+filename = "chisel-2.17.26-GTNH.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/Chisel/releases/download/2.17.10-GTNH-pre/chisel-2.17.10-GTNH-pre.jar"
+url = "https://github.com/GTNewHorizons/Chisel/releases/download/2.17.26-GTNH/chisel-2.17.26-GTNH.jar"
 hash-format = "sha256"
-hash = "11f1ca8f662d2675f4c28a496b0fd814e13d782464f3f8ade4ef5461258acaf9"
+hash = "198455ec770dfe481f3862ba9665af32f381e2dc8c1cd5c6377b7e0cdaf992d0"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/Chisel"
-tag = "2.17.10-GTNH-pre"
+tag = "2.17.26-GTNH"

@@ -1,15 +1,15 @@
 name = "ServerUtilities"
-filename = "ServerUtilities-2.2.10-pre.jar"
+filename = "ServerUtilities-2.2.32.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.10-pre/ServerUtilities-2.2.10-pre.jar"
+url = "https://github.com/GTNewHorizons/ServerUtilities/releases/download/2.2.32/ServerUtilities-2.2.32.jar"
 hash-format = "sha256"
-hash = "e6bba52b42c0e6fd99d4b522fd37bed1d30a2b38c0ef2f8d1137971b409b48cb"
+hash = "4032a7dc6972e7f188fa26df803ee518dcd9a0054ed50a3e6c3a6a9a494a16d4"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "GTNewHorizons/ServerUtilities"
-tag = "2.2.10-pre"
+tag = "2.2.32"
