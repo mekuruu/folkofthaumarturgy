@@ -198,6 +198,11 @@ hash = "90c8d14dc58512924e8189edf029197b3705c132cc57b9de126eb8275d246e6a"
 metafile = true
 
 [[files]]
+file = "mods/lwjgl3ify.pw.toml"
+hash = "79383a8fad2dc22048c6dd3b6e55343168f54b896ebdad3651db47987077cb53"
+metafile = true
+
+[[files]]
 file = "mods/mcpatcher.pw.toml"
 hash = "6032e4ac82b1c3242e0718d6aaee28102e1562d765b73368cc5766f503466e97"
 metafile = true
