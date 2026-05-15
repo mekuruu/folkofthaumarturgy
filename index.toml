@@ -153,6 +153,11 @@ hash = "9e82af5eea72c5911110a31b9a10991b925f31e0fe6985ad77204c434997d5a1"
 metafile = true
 
 [[files]]
+file = "mods/geostrata.pw.toml"
+hash = "9d160dcc6d9f76ef9030c4602289a52f8e454d3af5cdaedcfa8fe8cedc66dfc7"
+metafile = true
+
+[[files]]
 file = "mods/gtnhlib.pw.toml"
 hash = "0fd335bd9ca98752c5621848348aeab90078364dbc2bd9f24d4f3bc004767448"
 metafile = true
