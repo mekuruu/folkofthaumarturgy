@@ -1,19 +1,19 @@
 import minetweaker.item.IItemStack;
 
-// set custom oreDicts
-// mysticalFlowerDict
+# set custom oreDicts
+# mysticalFlowerDict
 val mysticalFlowerDict = <ore:mysticalFlowers>; 
 mysticalFlowerDict.add(<Botania:flower:*>);
 
-// mysticalPetals
+# mysticalPetals
 val mysticalPetalDict = <ore:mysticalPetals>;
 mysticalPetalDict.add(<Botania:petal:*>);
 
-// add aspects to mystical flowers
+# add aspects to mystical flowers
 mods.thaumcraft.Aspects.add(<Botania:flower:*>, "herba 4");
 
-// tweak petal recipes
-// variables
+# tweak petal recipes
+# variables
 
 var BPetals = [
 	<Botania:petal>, 
@@ -42,12 +42,12 @@ var BTallFlowers = [
 	<Botania:doubleFlower2:5>, <Botania:doubleFlower2:6>, <Botania:doubleFlower2:7>
 	] as IItemStack[];
 
-// recipe removal
+# recipe removal
 for i, petal in BPetals {
 	recipes.removeShapeless(petal);
 }
 
-// add crucible petal recipes
+# add crucible petal recipes
 for i, petal in BPetals {
 	var flower = BFlowers[i];
 	mods.thaumcraft.Crucible.addRecipe("THAUMIUM", petal * 3, flower, "perditio 1");	
@@ -58,26 +58,26 @@ for i, petal in BPetals {
 	mods.thaumcraft.Crucible.addRecipe("THAUMIUM", petal * 6, flower, "perditio 2");	
 }
 
-// add aspects to petals
-mods.thaumcraft.Aspects.set(<Botania:petal>, "ordo 2"); // tahara
-mods.thaumcraft.Aspects.set(<Botania:petal:1>, "ignis 2"); // portokali
-mods.thaumcraft.Aspects.set(<Botania:petal:2>, "sano 2"); // kurauri
-mods.thaumcraft.Aspects.set(<Botania:petal:3>, " 2"); // galazio 
-mods.thaumcraft.Aspects.set(<Botania:petal:4>, "potentia 2"); // kitrino
-mods.thaumcraft.Aspects.set(<Botania:petal:5>, "motus 2"); // asveste
-mods.thaumcraft.Aspects.set(<Botania:petal:6>, "telum 2"); // ruzova
-mods.thaumcraft.Aspects.set(<Botania:petal:7>, "permutatio 2"); // ykri
-mods.thaumcraft.Aspects.set(<Botania:petal:8>, "tenebrae 2"); // argia
-mods.thaumcraft.Aspects.set(<Botania:petal:9>, "aqua 2"); // vadali
-mods.thaumcraft.Aspects.set(<Botania:petal:10>, "superbia 2"); // zambarau
-mods.thaumcraft.Aspects.set(<Botania:petal:11>, "lux 2"); // nila
-mods.thaumcraft.Aspects.set(<Botania:petal:12>, "metallum 2"); // ruskea
-mods.thaumcraft.Aspects.set(<Botania:petal:13>, "herba 2"); // kijani
-mods.thaumcraft.Aspects.set(<Botania:petal:14>, "tutamen 2"); // karmir
-mods.thaumcraft.Aspects.set(<Botania:petal:15>, "praecantatio 2"); // kuro
+# add aspects to petals
+mods.thaumcraft.Aspects.set(<Botania:petal>, "ordo 2"); # tahara
+mods.thaumcraft.Aspects.set(<Botania:petal:1>, "ignis 2"); # portokali
+mods.thaumcraft.Aspects.set(<Botania:petal:2>, "sano 2"); # kurauri
+mods.thaumcraft.Aspects.set(<Botania:petal:3>, " 2"); # galazio 
+mods.thaumcraft.Aspects.set(<Botania:petal:4>, "potentia 2"); # kitrino
+mods.thaumcraft.Aspects.set(<Botania:petal:5>, "motus 2"); # asveste
+mods.thaumcraft.Aspects.set(<Botania:petal:6>, "telum 2"); # ruzova
+mods.thaumcraft.Aspects.set(<Botania:petal:7>, "permutatio 2"); # ykri
+mods.thaumcraft.Aspects.set(<Botania:petal:8>, "tenebrae 2"); # argia
+mods.thaumcraft.Aspects.set(<Botania:petal:9>, "aqua 2"); # vadali
+mods.thaumcraft.Aspects.set(<Botania:petal:10>, "superbia 2"); # zambarau
+mods.thaumcraft.Aspects.set(<Botania:petal:11>, "lux 2"); # nila
+mods.thaumcraft.Aspects.set(<Botania:petal:12>, "metallum 2"); # ruskea
+mods.thaumcraft.Aspects.set(<Botania:petal:13>, "herba 2"); # kijani
+mods.thaumcraft.Aspects.set(<Botania:petal:14>, "tutamen 2"); # karmir
+mods.thaumcraft.Aspects.set(<Botania:petal:15>, "praecantatio 2"); # kuro
 
-// thaumify recipes!!!
-// petal apothecary
+# thaumify recipes!!!
+# petal apothecary
 recipes.remove(<Botania:altar:*>);
 mods.thaumcraft.Arcane.addShaped(
 	"THAUMIUM", 
@@ -90,7 +90,7 @@ mods.thaumcraft.Arcane.addShaped(
 	]
 );
 
-// mana spreader
+# mana spreader
 recipes.remove(<Botania:spreader>);
 mods.thaumcraft.Arcane.addShaped(
 	"THAUMIUM", 
@@ -103,7 +103,7 @@ mods.thaumcraft.Arcane.addShaped(
 	]
 );
 
-// diluted mana pool
+# diluted mana pool
 recipes.remove(<Botania:pool:2>);
 mods.thaumcraft.Arcane.addShaped(
 	"THAUMIUM", 
@@ -116,11 +116,11 @@ mods.thaumcraft.Arcane.addShaped(
 	]
 );
 
-// mana pool
+# mana pool
 recipes.remove(<Botania:pool>);
 mods.botania.ManaInfusion.addInfusion(<Botania:pool>, <Botania:pool:2>, 20000);
 
-// runic altar
+# runic altar
 recipes.remove(<Botania:runeAltar>);
 mods.thaumcraft.Infusion.addRecipe(
 	"THAUMIUM", 
@@ -138,7 +138,7 @@ mods.thaumcraft.Infusion.addRecipe(
 	5
 );
 
-// alchemy catalyst
+# alchemy catalyst
 recipes.remove(<Botania:alchemyCatalyst>);
 mods.thaumcraft.Infusion.addRecipe(
 	"THAUMIUM",

@@ -339,28 +339,28 @@ metafile = true
 
 [[files]]
 file = "scripts/basesDies.zs"
-hash = "f2e6d22d093068d1b5f03c5cf15919884d96c41768df21cf49f51b8ba12dde9f"
+hash = "81a2a46404364ee85a20dd672ee7eeef80e78759093d8fce6a598d3ca9a1a1bd"
 
 [[files]]
 file = "scripts/bmTweaks.zs"
-hash = "4087ee9b174515771a1cb322bec65aa6bd98bd2595044db50895a369db9f25f8"
+hash = "050511af247661f5590dd4645c5614c8ade2b5b9c894a5855a5d828b69752ef6"
 
 [[files]]
 file = "scripts/bosniaTweaks.zs"
-hash = "0cff39ae70f05f015d3051a3ab1b0e286c434121441ed72ddf723ae3ff6adcda"
+hash = "a7fb551f61a7f2283fb31ad42d19d66aa21a75757b84f568d5aeeeeb968a521f"
 
 [[files]]
 file = "scripts/hammerTweaks.zs"
-hash = "7343d0a47cddf8cf5c5282d5bbbf3e409a2c7448cca67a93957d6b75afa2fc00"
+hash = "75284dd93b7d0debad5da260b8a0d1740764c84bff943efda2e44041ad6783c0"
 
 [[files]]
 file = "scripts/manaBeanHRTReal.zs"
-hash = "c1b95394e3d620be59069080f4fb62da3342f882cd02fc930ea15f1a7b9137c9"
+hash = "de08d23bf6c147d28eb65ef638cfb9a1b3ac71e2a4bdd07e362285492fe3a18e"
 
 [[files]]
 file = "scripts/runicAltar.zs"
-hash = "f4cd96afc438d87d0012cd96b1619bb1e4c306677e3f067d019edae1fbde2ef9"
+hash = "ec8c4bd1439fc3804936a9fb7c6d10c8adc98d9af66ab01da5517cd58afa2b97"
 
 [[files]]
 file = "scripts/thaumTweaks.zs"
-hash = "c5a04c3bc7d2fb3f8cf2d4c6dda33a717d5d7985e1ad79f4de308e5c6fc45db7"
+hash = "cb8167f1b1c8851ecde740686260e9b37b68d8ba58a8e0a13632aa899563c396"
