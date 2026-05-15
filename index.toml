@@ -10,7 +10,7 @@ hash = "86aad4c3c65333b7c41cd9d7b0853642cb63760e39578fb794bf9c810eedd07b"
 
 [[files]]
 file = "config/hodgepodge.cfg"
-hash = "bc2aa8755e07bd6f0e5852a8bc13ec8517ffd502912fdd7a7b17cae2989fb579"
+hash = "5a2693e91d2bd5011e5011e62d7f9a0ae9caea14437a85885e32e62731e2c94b"
 
 [[files]]
 file = "mods/additional-pipes-for-buildcraft.pw.toml"
