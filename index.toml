@@ -39,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/beddium.pw.toml"
-hash = "cd16d8276c4da306fca009ec7a7ea642ee18b139976bb677c776d38f3fef8d4b"
+hash = "5cf4589c71c0a0c5814ee44e74268b5093650974b54ae49955af2f19aeb65033"
 metafile = true
 
 [[files]]
