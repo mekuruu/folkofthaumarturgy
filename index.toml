@@ -178,6 +178,11 @@ hash = "e480e4f5e7f0b6479375102f503082dd29ec545bb9e0b912af2ac85053c894d9"
 metafile = true
 
 [[files]]
+file = "mods/industrial-craft.pw.toml"
+hash = "36eaa1e528a80689fe868f86c4333b7d267fb85c3d429696f0c3f9a6fb90b9b6"
+metafile = true
+
+[[files]]
 file = "mods/inventory-tweaks-extrafoamy.pw.toml"
 hash = "063d49925d420c05b1c9d35489e9cd09ec3cf9698d3f048a2c1fb5c7792430b3"
 metafile = true
@@ -275,6 +280,16 @@ metafile = true
 [[files]]
 file = "mods/thaumictinkerer.pw.toml"
 hash = "987911b64afc6e4a2bffd03e08932cfd96592843f7f85b86f1ee4e950148a1ad"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "df50657f40e3b77b110e019f6f2b1d010468ac5f0a26f807bae7258e9951d06b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "52c5a415a7bc071332ef8c791d4b97910cfba93c527c9f8aabfc05af63d30321"
 metafile = true
 
 [[files]]
