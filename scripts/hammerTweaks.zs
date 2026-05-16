@@ -31,13 +31,18 @@ mods.thaumcraft.Arcane.addShaped("THAUMIUM", <hammerz:Manasteel>, "ordo 30 ignis
 	[null, <Botania:manaResource:3>, null]
 	]);
 
-recipes.addShaped(<hammerz:ElvenElementium>, [
-	[<Botania:manaResource:7>, <Botania:storage:2>, <Botania:manaResource:7>],
-	[null, <Botania:manaResource:13>, null],
-	[null, <Botania:manaResource:13>, null]
-	]);
+mods.thaumcraft.Infusion.addRecipe("THAUMIUM",
+	<Botania:elementiumPick>, [
+		<Botania:storage:2>, // elementium block
+		<minecraft:obsidian>,
+		<Botania:manaResource:8> // pixie dust
+	],
+	"alienis 30, praecantatio 30, vacuos 40",
+	<hammerz:ElvenElementium>,
+	6
+	);
 
- # thaumcraft hammers
+# thaumcraft hammers
 mods.thaumcraft.Arcane.addShaped("THAUMIUM",
 	 <hammerz:Thaumium>, 
 	 "terra 15, ignis 15, ordo 15", 

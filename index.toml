@@ -338,6 +338,26 @@ hash = "c03b3236b7169f8999bee4b3863f0ec725cf4ffe07ff9f9b8a021484331c468b"
 metafile = true
 
 [[files]]
+file = "resourcepacks/assets/automagy/lang/en_US.lang"
+hash = "cba55ec2357a9b02fe6ce910aabbcc8a270df9b60a6ad7f3340b3fc226b4c6e7"
+
+[[files]]
+file = "resourcepacks/assets/automagy/textures/items/glyph-aquaink.png"
+hash = "865d9bb86e57436471da5cc4fc8d19f565b2f82fddcabe0db9dab3242e1cfa3a"
+
+[[files]]
+file = "resourcepacks/assets/automagy/textures/items/glyph-aquaink.png.mcmeta"
+hash = "d1e77f71dc0860d72b053363c7fefc41f2ea8ee6be779921d44f4fd8cba1faf3"
+
+[[files]]
+file = "resourcepacks/pack.mcmeta"
+hash = "ca01db5c01e7121a3a153ccc8ac2ef13c6123f5b63b11d49d73a6bbfcd72bf55"
+
+[[files]]
+file = "resourcepacks/pack.png"
+hash = "523d8eab56b46899395e8a6cb6aa7bb1b40a0526bdf2691e6a9638c722c0e59b"
+
+[[files]]
 file = "scripts/basesDies.zs"
 hash = "81a2a46404364ee85a20dd672ee7eeef80e78759093d8fce6a598d3ca9a1a1bd"
 
@@ -351,7 +371,7 @@ hash = "a7fb551f61a7f2283fb31ad42d19d66aa21a75757b84f568d5aeeeeb968a521f"
 
 [[files]]
 file = "scripts/hammerTweaks.zs"
-hash = "75284dd93b7d0debad5da260b8a0d1740764c84bff943efda2e44041ad6783c0"
+hash = "fefcf625ef6dcc669d60ae6cde2ea4f074850fd2e90d2cddc933b574781a9255"
 
 [[files]]
 file = "scripts/manaBeanHRTReal.zs"
