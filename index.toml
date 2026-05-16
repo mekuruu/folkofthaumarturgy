@@ -233,6 +233,11 @@ hash = "b229fda123f137d1a6294b8189ca6e8e858eb63edecd23dff9fd8d571ae31763"
 metafile = true
 
 [[files]]
+file = "mods/resource-loader.pw.toml"
+hash = "7138d783b24cafd013c434c8443b4fa9bb108d264cde2ffd4ca90c59077ebd79"
+metafile = true
+
+[[files]]
 file = "mods/salis-arcana.pw.toml"
 hash = "055c8c2000ed52dbca13bd938537a54468c43408fac901b2bc167f5a9c83878a"
 metafile = true
@@ -338,24 +343,16 @@ hash = "c03b3236b7169f8999bee4b3863f0ec725cf4ffe07ff9f9b8a021484331c468b"
 metafile = true
 
 [[files]]
-file = "resourcepacks/assets/automagy/lang/en_US.lang"
+file = "resources/assets/automagy/lang/en_US.lang"
 hash = "cba55ec2357a9b02fe6ce910aabbcc8a270df9b60a6ad7f3340b3fc226b4c6e7"
 
 [[files]]
-file = "resourcepacks/assets/automagy/textures/items/glyph-aquaink.png"
+file = "resources/assets/automagy/textures/items/glyph-aquaink.png"
 hash = "865d9bb86e57436471da5cc4fc8d19f565b2f82fddcabe0db9dab3242e1cfa3a"
 
 [[files]]
-file = "resourcepacks/assets/automagy/textures/items/glyph-aquaink.png.mcmeta"
+file = "resources/assets/automagy/textures/items/glyph-aquaink.png.mcmeta"
 hash = "d1e77f71dc0860d72b053363c7fefc41f2ea8ee6be779921d44f4fd8cba1faf3"
-
-[[files]]
-file = "resourcepacks/pack.mcmeta"
-hash = "ca01db5c01e7121a3a153ccc8ac2ef13c6123f5b63b11d49d73a6bbfcd72bf55"
-
-[[files]]
-file = "resourcepacks/pack.png"
-hash = "523d8eab56b46899395e8a6cb6aa7bb1b40a0526bdf2691e6a9638c722c0e59b"
 
 [[files]]
 file = "scripts/basesDies.zs"
