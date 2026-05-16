@@ -253,16 +253,6 @@ hash = "34b1972888edca7f7eda956d4c4a0295787732009a8b46e4032d443c05fb5a28"
 metafile = true
 
 [[files]]
-file = "mods/tcneiadditions.pw.toml"
-hash = "3b7aa0b0dba45d4ba0fc1c504600631af2b750d4f81b7c1c2a8548ed20fd5f02"
-metafile = true
-
-[[files]]
-file = "mods/thaumcraft-nei-plugin.pw.toml"
-hash = "f753f59a399e3dc7e7d9c1884965b32f2ccf5cce394dd0918ac7e9ab1029e787"
-metafile = true
-
-[[files]]
 file = "mods/thaumcraft-research-tweaks.pw.toml"
 hash = "c879717ee51b3c930e3ae1cc95524d1dbf5062e1c544e7fe69ec5c9fa84b7259"
 metafile = true
