@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/lwjgl3ify.pw.toml"
-hash = "79383a8fad2dc22048c6dd3b6e55343168f54b896ebdad3651db47987077cb53"
+hash = "bc0bfa3ec4c6458ec0e6425d0293f9ea6485afd862c9f1ae6a518e32a5a3e1db"
 metafile = true
 
 [[files]]

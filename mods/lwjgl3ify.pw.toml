@@ -1,13 +1,13 @@
 name = "lwjgl3ify"
-filename = "lwjgl3ify-3.0.16.jar"
+filename = "lwjgl3ify-3.0.17.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eC4lt4Oy/versions/3w7Gmx9A/lwjgl3ify-3.0.16.jar"
+url = "https://cdn.modrinth.com/data/eC4lt4Oy/versions/mt5HzhAa/lwjgl3ify-3.0.17.jar"
 hash-format = "sha512"
-hash = "103b2c6df1ea9700eeb5ba4fb5cbb0ee37c47b3580fe5498b51c739a9c15235c63e27c024bed57931b9a21185d4e01c19632a5f8b4132d2cace6e877e833a17f"
+hash = "bbb4bc66873923be91e2a268e0e70a0d85259f671a074226a4096a451f071d7ff39377bb36f24383f8438abaa1f6a1b3ae54768151bbffd7159aa2de2404e267"
 
 [update]
 [update.modrinth]
 mod-id = "eC4lt4Oy"
-version = "3w7Gmx9A"
+version = "mt5HzhAa"
